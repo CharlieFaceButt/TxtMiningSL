@@ -31,7 +31,7 @@ for tweet in stream:
 	i = i + 1
 	if i % 100 == 0:
 		time = datetime.datetime.now()
-		with open('captured_tweets_stream_' + time.strftime("%Y%m%d_%H%M%S") + '.json', 'w') as outfile:
+		with open('./tweet_stream/captured_tweets_stream_' + time.strftime("%Y%m%d_%H%M%S") + '.json', 'w') as outfile:
 			json.dump(result_data, outfile, indent = 4)
 			print "file updated" + str(i)
 		result_data.clear()
