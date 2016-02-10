@@ -1,0 +1,2826 @@
+[
+    {
+        "id": "104040922966829",
+        "name": "OTRS"
+    },
+    {
+        "id": "194611683915071",
+        "name": "Rensselaer Center For Open Source",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 08:45:05 EST 2016",
+                "id": "194611683915071_1046726812036883",
+                "message": "We will have usual meeting this Friday (2/5/2016) at 4:00 pm in DCC\n318.  All the project pitch slides must be done by this Friday (if\nyour group has not sent pitch slides, please do send the pitch slides\nto Aaron Gunderson gundea@rpi.edu\n\n1) Pitch Slide Presentation\n\nGuest Talks:\n2) Jordan Horwich - Myo Gesture Controller\n3) Jeffrey Spies - Open Science - How Open Source Developers Will Save Science\nhttps://cos.io/\n\n\nLooking forward to seeing you all. Hope you have started on your\nprojects and making progress!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 27 12:50:27 EST 2016",
+                "id": "194611683915071_1042471029129128",
+                "message": "RCOS Spring 2016 First Day - a lot of eager and enthusiastic open source developers"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jan 24 13:39:41 EST 2016",
+                "id": "194611683915071_1040924335950464",
+                "message": "The first meeting of RCOS will be on 1/26/2016 at 4:00 pm in DCC 318. Please try to attend.\n\n--"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 22 09:23:04 EST 2016",
+                "id": "194611683915071_1039699059406325",
+                "message": "Spring Call for proposals is out - Please take a look at https://groups.google.com/forum/#!topic/rcos-at-rensselaer/7VZpKqobE7A  - Participate inthe Open Source Software Development and contribute"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Fri Jan 15 15:18:13 EST 2016",
+                    "id": "1036332436409654_1036332873076277",
+                    "message": "Awesome Job Theo! :)"
+                }],
+                "createdTime": "Fri Jan 15 15:17:06 EST 2016",
+                "id": "194611683915071_1036332436409654",
+                "message": "CNET coverage of Theo Browne's RCOS Project! http://www.cnet.com/how-to/force-cortana-to-use-google-instead-of-bing/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 30 16:47:32 EST 2015",
+                "id": "194611683915071_1027952417247656",
+                "message": "https://youtu.be/La5BCSb097o?t=1m14s   Jim Boulter (poster on MeNext) in 2015 Year in Review  :) :)"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Mon Dec 21 14:19:40 EST 2015",
+                    "id": "1022455097797388_1022460367796861",
+                    "message": "Jordan Horwich"
+                }],
+                "createdTime": "Mon Dec 21 13:58:25 EST 2015",
+                "id": "194611683915071_1022455097797388",
+                "message": "RCOS is getting an arm band to do some gesture programming - Please let me know if you are interested"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 10 09:23:09 EST 2015",
+                "id": "194611683915071_1017550941621137",
+                "message": "We will have our usual meeting this Friday (12/11/2015). This will be\nour last meeting for the Fall semester. The following groups will make\ntheir presentations.\n\n1) Joseph Jung, Eric Tran and Beverly Sihsobhon, HWServer,\nhttp://rcos.io/projects/bmcutler/HWserver/profile  - mentor Prof.\nBarbra Cutler ; student mentors - Rob  Russo and Jon Wrona\n\n2) James Grippo, Cameron Root and Richie Young, YACS,\nhttp://rcos.io/projects/aosdict/yacs/profile - mentor Dr. David\nGoldschmidt; student mentors - Theo Browne and Courtney Tambling)\n\n3) Zhiyang Jiang Rat'em\nhttps://rcos.io/projects/bazinga931212/RCOS_RayTing/profile  (student\nmentors Josh Makkinen and Jim Boulter)\n\n4) Ben Krowitz and William Kronmiller and (Daniel Petti), Nepal\nRobotics https://rcos.io/projects/kronmw/NepalRobotics/profile\n(student mentors Michae Hosier and Shane Aston)\n\n5) Jonathan Patsenker, Austin Wilson , Samuel Johnson, Connor Foody,\nand Theo Rice, Opinionated\nhttps://rcos.io/projects/jpatsenker/Opinionated/profile (student\nmentors Jim Boulter and Josh Makkinen)\n\n6) Dwight Naylor and Pal (Oasha) Chorba, MOAP (Mother of All Programs)\nhttps://rcos.io/projects/mcaniw/MOAP/profile (mentors John Behnke and\nBrian Kelley)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 09 13:18:05 EST 2015",
+                "id": "194611683915071_1017193761656855",
+                "message": "Management Class Project presentation on How to improve \"RCOS\".  RCOS is dissected and a lot of useful suggestions were made For the report please see this link https://drive.google.com/file/d/0B2UFEZRUC23dTVNXVnJCd0R5UlE/view?usp=sharing"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 02 18:28:05 EST 2015",
+                "id": "194611683915071_1014367068606191",
+                "message": "Including this week, we have only two weeks left. Please write three blog posts (5 or 6 sentences in each blog) - explain the problems and how you overcame - such a blog will be useful to other open source developers"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Nov 21 10:08:49 EST 2015",
+                "id": "194611683915071_1009616579081240",
+                "message": "Congratulations to Josh Makkinen '16 in the recently concluded HackRPI . He won the Google API prize of a Bose speaker and the best hardware hack award of an ssd. Congratlation to the organizers, volunteers and the many RCOS particiapants. It was awesome."
+            },
+            {
+                "comments": [{
+                    "createdTime": "Fri Nov 13 19:44:20 EST 2015",
+                    "id": "1006373792738852_1006397966069768",
+                    "message": "Jim Boulter Kiana McNellis"
+                }],
+                "createdTime": "Fri Nov 13 18:07:24 EST 2015",
+                "id": "194611683915071_1006373792738852",
+                "message": "Jim Boulter '17 and Kiana McNellis '17 won the jetblue API award at YHack 2015 Congratulations Kiana and Jim. The grand prize winnng team is also from RPI. https://pbs.twimg.com/media/CTUCL-oWoAAZFim.jpg:large One of the grand prize winners is Eric Zhang -  He did a RCOS project on http://rcos.rpi.edu/projects/cantabile/ GIthib -like environemnt for creating music (music colloboration project)  https://github.com/zhange/GitMusic Congratulations Eric"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Oct 28 11:47:26 EDT 2015",
+                "id": "194611683915071_999544000088498",
+                "message": "Presentation by Colin Rice '14 and Austin Gulati '15 (googlers) in RCOS on 10/27/2015"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Oct 26 12:53:50 EDT 2015",
+                "id": "194611683915071_998699390172959",
+                "message": "We meet tomorrow (Tuesday 10/27/2015) at 4:00 pm in DCC 318 - We have talks by googlers - free pizza - small group meeting afterwards"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Oct 08 13:54:13 EDT 2015",
+                "id": "194611683915071_990879457621619",
+                "message": "Last weeks (10/2/2015) talks by Justin Etzine (WTG), Ramond Jacobson (MongoDB) Prof. Martin Hardwick (Digital Manufacturing)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Oct 08 13:31:20 EDT 2015",
+                "id": "194611683915071_990868317622733",
+                "message": "We will have our usual meeting this Friday (10/9/2015) at 4:00 pm in\nDCC 318. We will have two tutorial talks followed by regular project\ntalks.\nThe talks include\n\n1) Josh Makinen (mentor)  - Android Development (Tutorial Talk)\n2) Eric Oswald (mentor) - GoLang (Tutorial Talk)\n3) Marshall Cage, Alwin Joy, Ruben Madera , Ryan Sherman, Paul Steiner\nQuickCast  http://rcos.io/projects/Farkinator/QuickCast/profile\n(mentor Jim Boulter, Josh Makkinen)\n4) Rob Srusso, Lapus Linguae\nhttp://rcos.rpi.edu/projects/lapsus-linguae/\nhttps://github.com/rickrizzo/lapsus (mentor Rob Russo and Jon Wrona) -\nIt is not in the new Observatory :(\n5) Sebastin Serbora, Jazmine Ollinger, Neptune\nhttp://rcos.rpi.edu/projects/neptune/  (mentor Michael Hosier and\nShane Aston) not in the new observatory :(\n6) David Ivey, Brian Kelley and John Behnke Swolemon\nhttp://rcos.io/projects/kelleyb/swolemon-android/profile (mentor John\nBehnke and Brian Kelley)\n\nLooking forward to hearing these talks and seeing all of you on Friday."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 14 12:13:32 EDT 2015",
+                "id": "194611683915071_980375748671990",
+                "message": "Awesomer RCOS mentors ready to help others"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 14 12:12:43 EDT 2015",
+                "id": "194611683915071_980375315338700",
+                "message": "Awesome group of RCOS students  this fall"
+            },
+            {
+                "comments": [
+                    {
+                        "createdTime": "Mon Sep 07 13:05:37 EDT 2015",
+                        "id": "976440945732137_976443979065167",
+                        "message": "Feel free to tag yourself!"
+                    },
+                    {
+                        "createdTime": "Wed Dec 23 13:21:45 EST 2015",
+                        "id": "976440945732137_1023507081025523",
+                        "message": "Wow. I remember when we had around 15 people."
+                    }
+                ],
+                "createdTime": "Mon Sep 07 13:02:09 EDT 2015",
+                "id": "194611683915071_976440945732137",
+                "message": "Opening day 9/1/2015!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 04 18:34:19 EDT 2015",
+                "id": "194611683915071_974988425877389",
+                "message": "Thanks to Robert Rouhani for co-ordinating the projects pitch day. All the project pitches are are here https://docs.google.com/presentation/d/1LN9jNbdhzKFu6KjA4dXbX6__pVkE5jjk1FdHSDW4SCA/edit?usp=sharing\n\nIf you have not presented yet - you can do it on Tuesday (9/8/2015) - please send your slides to Robert Rouhani"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Tue Sep 01 17:46:01 EDT 2015",
+                    "id": "973183586057873_973186596057572",
+                    "message": "Great job Theo!"
+                }],
+                "createdTime": "Tue Sep 01 17:35:16 EDT 2015",
+                "id": "194611683915071_973183586057873",
+                "message": "Congratulations to Theo Browne '17. His software (open source of course) got covered in http://www.ibtimes.com/how-change-cortanas-bing-default-search-engine-google-using-chrometana-2032349#.Vbp8BX6i8kE.twitter and in http://fieldguide.gizmodo.com/you-can-make-cortana-ditch-bing-for-google-in-windows-1-1721950842"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 01 17:33:14 EDT 2015",
+                "id": "194611683915071_973183212724577",
+                "message": "Great to see so many new faces and remember the old faces in todays meeting. Please join rcos.slack.com if you have not joined already. Coming Friday is the start of the pitch day (pitch your project day) - Have one slide presentation - Please the rcos slack channel for further details."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Aug 30 10:31:00 EDT 2015",
+                "id": "194611683915071_971851242857774",
+                "message": "We will have first meeting for the fall semester on Tuesday(9/1/2015)  at 4:00 p in DCC 318. Please participate in contributing to open source projects,\n\nImportant Dates aka Time Line\n\n\nSeptember 1st - Attend First Meeting, DCC 318 4pm.\nSeptember 1st - Review past work, subscribe to the group! rcos-at-rensselaer@googlegroups.com ( https://groups.google.com/forum/#!forum/rcos-at-rensselaer )\nSept 2nd - Write up your proposal on http://rcos.rpi.edu in a new\nproject's blog post\nSept 2nd - Solicit Proposal Feedback from the mailing list, find a mentor\nSept 4th - Project Presentation (one slide)\nSept 8th - Project Presentation (1 slide)\nSept 11th - Submit URP Forms to Moorthy (Tuesday/Friday 2-3:30 pm and during RCOS meeting) or Goldschmidt ( Mon/Thurs 1-1:50pm and Tues 1-2:50pm. or during RCOS Meeting) - Mentor Assignments"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jul 17 13:21:51 EDT 2015",
+                "id": "194611683915071_950926914950207"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Fri Jul 17 13:18:18 EDT 2015",
+                    "id": "950925874950311_950926364950262",
+                    "message": "Great work every one!"
+                }],
+                "createdTime": "Fri Jul 17 13:17:12 EDT 2015",
+                "id": "194611683915071_950925874950311",
+                "message": "The best open hacker award goes to Princess the dog! :) Princess with other RCOS students! :)"
+            }
+        ]
+    },
+    {
+        "id": "1691561821057133",
+        "name": "UIT Open Source Society",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 31 16:14:23 EST 2015",
+                "id": "1691561821057133_1709334022613246",
+                "message": "Happy New Year folks!! Hope we will do more smart work in 2016 and will be able to improve our club and organize lots of events."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 17 06:12:22 EST 2015",
+                "id": "1691561821057133_1704642203082428",
+                "message": "Free Basics violates Net Neutrality and gives Facebook as its partners a competitive advantage over other Internet companies. It should not be allowed. Instead, the TRAI should consider means of providing free Internet for the poor, like Mozilla's equal rating option where the poor get access to all of the internet, for free. Facebook is not the internet."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Dec 15 07:38:16 EST 2015",
+                "id": "1691561821057133_1704032973143351",
+                "message": "Hi everyone,\nWe, STQM task force India, is truly\nlooking for increasing QA participation in India. So, we are going to\norganize first QA session on Firefox Desktop and Firefox for Android\non 15 Dec, 8:30 - 9:30 IST. This session will be taken by Ioana\nChiorean, Contractor for Firefox for Android QA.\nAgenda:\n1. STQM Members introduce themselves.\n2. Ioana introduce herself\n3. Basic introduction on Mozilla QA\n4. Firefox Desktop QA dive\n5. Firefox for Android QA dive\n6. Live questions\nThis workshop will be held on Hangout on air.\nRSVP on Hangout on air : https://goo.gl/zxWkqz\nFor live questions: join us at IRC #india in #irc.mozilla.org\nEven if you can't make it, we will be redirect you to recorded one.\nAnyone can join this event. Please share this news to every regional\ncommunity, so that every FSA, community member can get the chance to\nattend this.\n\ncc Biraj Karmakar"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 06 12:49:13 EST 2015",
+                "id": "1691561821057133_1701366800076635",
+                "message": "Goodbye trackers, hello speed. Get fast private browsing for your Android.\nShare now: http://mzl.la/FirefoxforAndroids"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 06 12:46:17 EST 2015",
+                "id": "1691561821057133_1701366156743366",
+                "message": "Have you ever wondered why some ads seem to be following you? Get ###SmartOn Tracking:."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 18 13:21:43 EST 2015",
+                "id": "1691561821057133_1696424360570879"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 13 12:51:38 EST 2015",
+                "id": "1691561821057133_1695012384045410"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 11 15:55:10 EST 2015",
+                "id": "1691561821057133_1694600544086594",
+                "message": "Keep your data safe, not sold. Try Private Browsing with Tracking Protection http://mzl.la/1WSfkt7 #FireFox #Mozilla"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 11 03:32:23 EST 2015",
+                "id": "1691561821057133_1694431820770133",
+                "message": "Abbreviation of major IT companies.......!!! \n\nGOOGLE :- Global Organisation Of Oriented Group\nLanguage of Earth \nAPPLE:- Asian Passenger Payload Experiment \nHP :- Hewlett-Packard \nIBM:- International Business Machines Corporation \nHCL:-Hindustan Computer Limited \nWIPRO:- Western India Product Limited \nGE:-General Electronics \nINFOSYS:-Information System \nTCS:- Tata Consultancy Services \nAOL:- American Online \nBPL:- British Process Laboratory \nINTEL:- Integrated Electronics \nCISCO:- Computer Information System Company \nDELL:- michael DELL \nSONY:-Sound Of New York \nAMD:- Advance micro devices \nLENOVO:- LE(Legend),NOVO(New) \nCOMPAQ:- Compatibility And Quality"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 04 07:13:21 EST 2015",
+                "id": "1691561821057133_1692368224309826",
+                "message": "https://www.facebook.com/techprepprogram/videos/938666319504811/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 04 07:12:23 EST 2015",
+                "id": "1691561821057133_1692368027643179",
+                "message": "A great initiative by Facebook. If you want to learn programming or improve your programming skill, here are a ton of resources, communities, courses and even scholarships all at one place. \nTry it out: http://techprep.fb.com/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 02 10:04:54 EST 2015",
+                "id": "1691561821057133_1691765501036765",
+                "message": "All those interested students are requested to fill the form at the link below.\n http://goo.gl/forms/f6YQIYTxy8"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 01 17:17:24 EST 2015",
+                "id": "1691561821057133_1691584597721522"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 01 16:36:16 EST 2015",
+                "id": "1691561821057133_1691578507722131",
+                "message": "For people wanting to contribute to the Python community but not necessarily in the science field, there's a lot that can be done, even if you're a *novice programmer*.\nI invite you to watch this inspiring video by Jessica McKellar recorded during PyCon New Zealand 2013. Jessica highlighted where exactly Python needs help and how to do it. Enjoy.\nvia Quora\nhttps://www.youtube.com/watch?v=d1a4Jbjc-vU"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 01 16:19:11 EST 2015",
+                "id": "1691561821057133_1691575537722428",
+                "message": "Hello UITians !\nWant to become a part of the UIT Firefox Club?\n\nA chance to explore yourself, stretch your boundaries\nGet the very first task done by filling this form .\n#UITFC\nhttp://goo.gl/forms/w9wR0rEhtl\n\nWe welcome all kinds of discussions related to open source technologies, conferences, bugs, usage and contributions. Please be polite and support everyone\u2019s view while participating in such discussions.A great chance for you all to learn something that even books can't teach.Think out of the box. \n\nFinally, enjoy the spirit of Open Source.\n\n#HappyCoding.\n\nInviting UITians to the club!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 01 15:22:45 EST 2015",
+                "id": "1691561821057133_1691562271057088"
+            }
+        ]
+    },
+    {
+        "id": "526233304132493",
+        "name": "Free/Libre Open Source and Open Knowledge Association of Kansas",
+        "posts": [
+            {
+                "comments": [{
+                    "createdTime": "Fri Sep 11 01:48:13 EDT 2015",
+                    "id": "978196252269527_978196318936187",
+                    "message": "Plan your escape. Join your computing freedom tribe in Columbus Ohio Oct 2-3. You know you want to get sprung from your cube. So just do it. Register! at ohiolinux.org"
+                }],
+                "createdTime": "Fri Sep 11 01:47:48 EDT 2015",
+                "id": "526233304132493_978196252269527"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 09 07:01:19 EDT 2015",
+                "id": "526233304132493_976899839065835",
+                "message": "https://www.youtube.com/watch?v=74YllK0qsmQ 3d printing medical devices"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jul 02 20:02:14 EDT 2015",
+                "id": "526233304132493_934348046654348"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jun 22 20:36:19 EDT 2015",
+                "id": "526233304132493_927039254051894",
+                "message": "We have a new Linux support mailing list for Kansas\nfloskhelp@googlegroups.com\n\nIt is the idea from Jonathan E. Brickman who is now a key player in the the open source against poverty project that we are doing in Topeka with Bob from Let's Help.\n\nYou can subscribe here: https://groups.google.com/forum/#!forum/floskhelp\n\nIf you want to help new people learning to use Linux, please join up and help out.\nWe are meeting every second Saturday of the month from 9-12 am at Let's Help In, 200 S Kansas Ave Topeka. If you have any hardware to donate, please do it will go to a good cause.\nfor more information : http://www.openkansas.us/events-1/open-source-against-poverty\n\nthanks!\nmike"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jun 12 04:43:36 EDT 2015",
+                "id": "526233304132493_919177874838032",
+                "message": "Come and visit our booth at the makerfaire!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jun 07 08:44:04 EDT 2015",
+                "id": "526233304132493_915431541879332",
+                "message": "Our friends in Kosovo have shown it is possible, they raised $17K for creating  a Hackerspace in Prishtina."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jun 07 08:01:37 EDT 2015",
+                "id": "526233304132493_915420595213760"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jun 07 07:59:21 EDT 2015",
+                "id": "526233304132493_915420181880468"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jun 05 07:39:20 EDT 2015",
+                "id": "526233304132493_914121985343621",
+                "message": "\"Using open source in school greatly reduces the time needed to troubleshoot PCs, shows the case of the Colegio Agustinos de León (Augustinian College of León, Spain). In 2013, the school switched to using Ubuntu Linux for its desktop PCs in class rooms and offices. For teachers and staff, the amount of technical issues decreased by 63 per cent and in the school\u2019s computer labs by 90 per cent, says Fernando Lanero, computer science teacher and head of the school\u2019s IT department.\""
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jun 02 18:27:04 EDT 2015",
+                "id": "526233304132493_912093035546516"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 28 21:53:39 EDT 2015",
+                "id": "526233304132493_908469725908847",
+                "message": "http://www.meetup.com/openwichita/events/222513225/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 28 08:17:49 EDT 2015",
+                "id": "526233304132493_908112419277911"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 22 23:28:53 EDT 2015",
+                "id": "526233304132493_904585499630603"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 22 23:28:36 EDT 2015",
+                "id": "526233304132493_904585422963944"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 21 22:16:15 EDT 2015",
+                "id": "526233304132493_903972069691946"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Mon May 25 17:56:40 EDT 2015",
+                    "id": "113484345650941",
+                    "message": "Thanks for all the likes, hope to see some of you there. If you want to drop off any old pcs any time, just contact Let's Help, Inc. and make an appointment."
+                }],
+                "createdTime": "Thu May 21 20:51:53 EDT 2015",
+                "id": "526233304132493_111297739202935"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 21 20:47:16 EDT 2015",
+                "id": "526233304132493_903946976361122",
+                "message": "Subscribe to our events!"
+            },
+            {
+                "comments": [
+                    {
+                        "createdTime": "Mon May 18 16:47:32 EDT 2015",
+                        "id": "899136443508842_902158153206671",
+                        "message": "SUKSESE - LIKE - AGENCY FOR STUDENT - As-studenti Prishtinë Kosova - www.facebook.com/asagency.forstudent"
+                    },
+                    {
+                        "createdTime": "Mon May 18 20:04:29 EDT 2015",
+                        "id": "899136443508842_902258956529924",
+                        "message": "Only 950$ left, please if everyone gave 50$!"
+                    }
+                ],
+                "createdTime": "Wed May 13 08:03:46 EDT 2015",
+                "id": "526233304132493_899136443508842",
+                "message": "The Kids of Kosovo are building a hackerspace and need just a bit more money to finish the fundraising. Can you spare some change for a great cause?\n\nRead more in this article http://www.kosovodiaspora.org/lets-build-a-hackerspace-in-kosovo/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon May 11 06:39:42 EDT 2015",
+                "id": "526233304132493_898154983606988"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat May 09 15:31:56 EDT 2015",
+                "id": "526233304132493_897499570339196",
+                "message": "We had a great start for the pc collection and install fest today! We will meet on the second Saturday at Let's help every month from 9-12am"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat May 09 11:50:01 EDT 2015",
+                "id": "526233304132493_897379973684489",
+                "message": "At the installfest"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat May 09 06:04:08 EDT 2015",
+                "id": "526233304132493_897284103694076",
+                "message": "Our friends in Albania are kicking off a great conference oscal.openlabs.cc today, and it is amazing how many people are showing up! good job!"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Fri May 08 22:11:11 EDT 2015",
+                    "id": "897173933705093_897174003705086",
+                    "message": "http://www.openkansas.us/events-1/open-source-against-poverty"
+                }],
+                "createdTime": "Fri May 08 22:10:44 EDT 2015",
+                "id": "526233304132493_897173933705093",
+                "message": "Tomorrow is our Install fest in Topeka at Let's Help."
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 08 19:31:51 EDT 2015",
+                "id": "526233304132493_897118633710623"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon May 04 20:08:41 EDT 2015",
+                "id": "526233304132493_895224430566710",
+                "message": "https://www.defectivebydesign.org/two-days-to-day-against-drm"
+            }
+        ]
+    },
+    {
+        "id": "75688002968",
+        "name": "Palmetto Open Source Conference (POSSCON)",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 04 12:59:23 EST 2015",
+                "id": "75688002968_10153663029997969",
+                "message": "Save the date - #POSSCON is returning on April 12th - 13th, 2016! Our Call for Speakers is now open through December 11th.  http://posscon.org/call-for-speakers/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 04 10:16:48 EST 2015",
+                "id": "75688002968_10153662804487969"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Apr 15 12:00:00 EDT 2015",
+                "id": "75688002968_10153242801292969",
+                "message": "POSSCON 2015\nColumbia, SC\nWednesday, April 15th, 2015"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Apr 15 09:19:25 EDT 2015",
+                "id": "75688002968_10153191707202969",
+                "message": "We have standing room only for the kickoff for Day 2 of #POSSCON!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Apr 14 18:06:26 EDT 2015",
+                "id": "75688002968_10153190477087969",
+                "message": "The first day is finally over! We have a fun crowd at the Afternoon Social. #POSSCON"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Apr 14 12:55:14 EDT 2015",
+                "id": "75688002968_10153189867937969",
+                "message": "We survived lunch! Thank you Doc's Barbeque! #POSSCON"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Apr 14 05:35:33 EDT 2015",
+                "id": "75688002968_10153188940987969",
+                "message": "VERY early morning set up. You can feel the excitement already. #WeNeedCoffee #POSSCON"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Apr 08 11:15:56 EDT 2015",
+                "id": "75688002968_10153175218622969"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Mar 30 10:48:21 EDT 2015",
+                "id": "75688002968_10153153631892969",
+                "message": "TOMORROW is the last day to register for both days of #POSSCON for only $129. One day of talks, one day of workshops, two days of how #OpenSource affects you! Tickets are running out so register today! bit.ly/RNposscon"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Mar 11 12:07:26 EDT 2015",
+                "id": "75688002968_10153109276732969",
+                "message": "Big news today: Version 2.0 of the schedule is up! We added more speakers, topics, and abstracts. Also, due to the overwhelming demand we have seen so far, we are capping the registration for #POSSCON. Check out the updated schedule and register today! http://posscon.org/schedule/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 27 09:47:16 EST 2015",
+                "id": "75688002968_10153081812517969",
+                "message": "Saturday is the last day for Early Bird prices! You can attend #POSSCON for only $79 for one day or $99 for both. Still not convinced? Check out v1.0 of our schedule (bit.ly/PossSched), to see what we are covering, or check out our blog post and learn why you should attend (bit.ly/WAposscon)."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 23 11:13:14 EST 2015",
+                "id": "75688002968_10153073483252969",
+                "message": "Since it has been so popular, we have extended our Early Bird pricing to the end of February! You have 5 days to register for #POSSCON for only $99. Are you not convinced to take advantage of our deal yet? Check out our new blog post to find out what we are covering this year: bit.ly/possblog"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 06 10:10:06 EST 2015",
+                "id": "75688002968_10153035100627969",
+                "message": "We promote \"Access\" as a very important characteristic of Open Source. In the spirit of access, we are extending our Early Bird Pricing an extra week. This means you have only 2 weeks to take advantage of $79/day or $99 for two days of #POSSCON! Register today! bit.ly/RNposscon"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 28 10:08:44 EST 2015",
+                "id": "75688002968_10153015724172969",
+                "message": "The #POSSCON Call For Speakers ends this Friday. If you love Front-end, Back-end, DevOps/Cloud, Operations, Security, or Open 101, we want to hear from you! Send in your talk now! http://posscon.org/call-for-speakers/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 13 13:06:35 EST 2015",
+                "id": "75688002968_10152979285462969",
+                "message": "Early Bird Registration is now open! $79 for either Tuesday or Wednesday, or $99 for both! We also announced the first round of speakers. Check out the website for more details. http://posscon.org/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 04 08:49:39 EST 2014",
+                "id": "75688002968_10152858735707969"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 04 08:49:34 EST 2014",
+                "id": "75688002968_10152858735542969"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 23 15:08:13 EST 2012",
+                "id": "75688002968_10150560728877969",
+                "message": "Wait what?!  Tickets aren't going to stay at $99 forever?  -- Of course not!  But you DO have a chance to get them while they're still only 99 smackers.  Wait till February and you'll see it go up to $149 ... unlucky enough to get them in March?  Try $199.  Tell your friend, family and cults about the last week to get them ad the ridiculously low price of $99.  http://www.posscon.org/register/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Dec 19 11:26:39 EST 2011",
+                "id": "75688002968_325556000807172",
+                "message": "Chris Aniszczyk, Open Source Manager at Twitter, to speak at POSSCON 2012!  "
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 15 16:05:56 EST 2011",
+                "id": "75688002968_10150429513098174",
+                "message": "POSSCON 2012 Brings Scott McNealy, Silicon Valley legend, to Columbia"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 15 15:17:18 EST 2011",
+                "id": "75688002968_303425926365059"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Thu Dec 15 20:53:45 EST 2011",
+                    "id": "117319198384482_77379",
+                    "message": "Had an opportunity meet and listen to Scott while attending EMC Innovation Conference. Great speaker it will worth your time! The word is out time to get excited!"
+                }],
+                "createdTime": "Thu Dec 15 15:16:08 EST 2011",
+                "id": "75688002968_117319198384482"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 14 15:38:33 EST 2011",
+                "id": "75688002968_179490172090895",
+                "message": "http://www.facebook.com/linuxmagazine?ref=ts&v=wall\nhttp://www.facebook.com/ubuntulinux?ref=ts&v=wall\nhttp://www.smart-developer.com\nThis week we confirmed some good give-a-ways for the conference!  UBUNTU User, LINUX Mag & the new Smart Developer copies will be offered sporadically throughout the conference!  How do you \"Like\" that?  "
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 07 08:33:38 EST 2011",
+                "id": "75688002968_132087650188999",
+                "message": "Thanks to all for taking a look.  Please remember to \"like\" the page so your other like minded see this is easily available for those on the east coast."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 05 16:55:16 EST 2011",
+                "id": "75688002968_124403834292063",
+                "message": "Palmetto Open Source Conference (POSSCON) POSSCON 2011 is now open for earlybird registration. Until March, prices for all three days and all four tracks are just $99 total. Price will go up in March! Come register now and save. March 23, 24 and 25 are just around the corner, and we're still adding speakers to our lineup daily."
+            }
+        ]
+    },
+    {
+        "id": "599285820180400",
+        "name": "OpenSource.fitness",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 14 21:26:18 EDT 2014",
+                "id": "599285820180400_606274616148187"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Sep 13 21:24:07 EDT 2014",
+                "id": "599285820180400_605809669528015"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 12 21:22:14 EDT 2014",
+                "id": "599285820180400_605419289567053"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 11 21:22:03 EDT 2014",
+                "id": "599285820180400_605005306275118"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 10 21:22:13 EDT 2014",
+                "id": "599285820180400_604602032982112"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 09 21:20:13 EDT 2014",
+                "id": "599285820180400_604139139695068"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 08 21:20:14 EDT 2014",
+                "id": "599285820180400_603721803070135"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 07 23:30:19 EDT 2014",
+                "id": "599285820180400_602698369839145"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 07 23:29:37 EDT 2014",
+                "id": "599285820180400_602698176505831"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 07 21:20:05 EDT 2014",
+                "id": "599285820180400_602660529842929"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Sep 06 21:20:11 EDT 2014",
+                "id": "599285820180400_602208819888100"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 05 21:20:30 EDT 2014",
+                "id": "599285820180400_601743026601346"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 04 21:18:21 EDT 2014",
+                "id": "599285820180400_601266099982372"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 03 21:16:21 EDT 2014",
+                "id": "599285820180400_600850586690590"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 02 21:16:04 EDT 2014",
+                "id": "599285820180400_600256816749967"
+            }
+        ]
+    },
+    {
+        "id": "577718475652300",
+        "name": "Open Source for Myanmar",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sun Jan 31 20:28:21 EST 2016",
+                "id": "577718475652300_973347889422688",
+                "message": "how about you?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 13 04:47:36 EST 2016",
+                "id": "577718475652300_963818497042294",
+                "message": "any you?"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Wed Dec 02 22:42:17 EST 2015",
+                    "id": "934007763356701_942463935844417",
+                    "message": "ေအာသ္ျမင္ပါေစ"
+                }],
+                "createdTime": "Fri Nov 13 05:35:05 EST 2015",
+                "id": "577718475652300_934007763356701",
+                "message": "#Ardunio #robot #raspberrypi #Myanmar #startup"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Oct 10 19:09:12 EDT 2015",
+                "id": "577718475652300_919938494763628",
+                "message": "Keep your online account safe #keepassX #minikeepass #keepassdroid #ubuntu #Passwordmanager \nhttp://chitkoko.ubuntu-mm.net/?p=374&preview=true"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Aug 10 06:46:07 EDT 2015",
+                "id": "577718475652300_889387687818709",
+                "message": "Richard Stallman often talks about the back doors in Windows and Apple saying Linux is more secure because it doesn't have any. The NSA did approach Linus Torvalds asking him to include some and he refused. He has often spoken about this very publicly and colorfully. The NSA can't monitor you like they can in a Windows or Apple system. All they can do within Linux is monitor your web traffic, which is a far cry from knowing your every click, every key you've typed into the machine."
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Apr 10 06:17:24 EDT 2015",
+                "id": "577718475652300_825261734231305"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Apr 10 03:45:37 EDT 2015",
+                "id": "577718475652300_825204270903718",
+                "message": "Another year is going to pass soon and we would like to wish you d a Happy Myanmar New Year.  We would like to thank you all your support and coming Year will be a wonderful year with joy, peace, prosperity and happiness.\n\nThank you very much again.\nWith best regards,\n\nChit Ko Ko Win\nwww.chitkokowin.com\nhttp://chitkoko.ubuntu-mm.net\nEF49  DD71 FE8D 5656 9510\n3ED4 1511   4B86  5F9B 9E63"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Mar 28 20:13:43 EDT 2015",
+                "id": "577718475652300_818430638247748",
+                "message": "Let's share your awesome open source software ."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Mar 19 01:14:11 EDT 2015",
+                "id": "577718475652300_813114305446048",
+                "message": "#telenor #smartinternet #2Gbpermonth #opensignal"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Mar 07 01:12:53 EST 2015",
+                "id": "577718475652300_804505686306910",
+                "message": "r u ready ?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 02 13:08:15 EST 2015",
+                "id": "577718475652300_787423394681806"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 28 04:23:03 EST 2015",
+                "id": "577718475652300_784810478276431",
+                "message": "ZOO Kernel is the heart of the ZOO. It is a powerful server-side C Kernel which makes it possible to manage and chain Web services, by loading dynamic libraries and handling them as on-demand Web services. The ZOO Kernel is written in the C language, but supports several common programming languages in order to connect to numerous libraries and models.\n\nUsing ZOO Kernel as a Web Processing Platform\n\nZOO Kernel works with Apache and can communicate with cartographic engines and Web mapping clients. It simply adds the WPS support to your spatial data infrastructure and your Web mapping application!\n\nNote If you\u2019d like some background on the WPS standard, head to: http://www.opengeospatial.org/standards/wps\nhttp://www.zoo-project.org/docs/kernel/introduction.html"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 21 07:04:15 EST 2015",
+                "id": "577718475652300_781424491948363",
+                "message": "https://www.dropbox.com/sh/69t86ivxwti23l8/-JpQq-QJJZ"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jan 18 07:55:36 EST 2015",
+                "id": "577718475652300_780016858755793"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Oct 15 20:26:24 EDT 2014",
+                "id": "577718475652300_724617487629064",
+                "message": "Finding the right open source project to join \n4 open source projects evaluated\nhttp://opensource.com/business/14/10/find-the-right-open-source-project?sc_cid=70160000000dgNzAAI&elq=f8e1b138aad44abbac5fe45e4922ae14&elqCampaignId=42724"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Sep 13 20:14:31 EDT 2014",
+                "id": "577718475652300_708074699283343",
+                "message": "R u ready ?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jul 29 01:16:26 EDT 2014",
+                "id": "577718475652300_684102401680573",
+                "message": "Joomla! is a free, open source content management system for publishing content on the world wide web and intranets. (GPL)\nCross-platform\n- See more at: http://www.joomla.org"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jul 29 01:12:30 EDT 2014",
+                "id": "577718475652300_684101258347354",
+                "message": "Arista Transcoder is a simple multimedia transcoder for the GNOME Desktop. Arista focuses on being easy to use by making the complex task of encoding for various devices simple. Pick your input, pick your target device, choose a file to save to and go. (GPL)\nLinux\n- See more at: http://transcoder.org"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jul 29 01:06:48 EDT 2014",
+                "id": "577718475652300_684099811680832",
+                "message": "Alice is an innovative 3D programming environment that makes it easy to create an animation for telling a story, playing an interactive game, or a video to share on the web. Alice is a freely available teaching tool designed to be a student's first exposure to object-oriented programming. It allows students to learn fundamental programming concepts in the context of creating animated movies and simple video games. In Alice, 3-D objects (e.g., people, animals, and vehicles) populate a virtual world and students create a program to animate the objects.\nfor more info\nhttp://www.alice.org/index.php"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Apr 12 00:14:28 EDT 2014",
+                "id": "577718475652300_622760907814723",
+                "message": "Happy New Year to all of my friends, may this New Year brings all the best to you and your family's . with best wishes"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Mar 18 02:43:47 EDT 2014",
+                "id": "577718475652300_610065162417631",
+                "message": "Q: Open Source and GNU GPL both seek to?\nA. Guarantee the ability to change, add to, and redistribute software\nB. Guarantee that the software is always free\nC. Provide copyright licensing to prevent distribution\nD. Provide all software for no charge"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 16 09:09:37 EST 2014",
+                "id": "577718475652300_577729628984518",
+                "message": "Artificial intelligence[edit]\nGeneral\nOpenCog A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence.\nComputer Vision\nAForge.NET Computer Vision, Artificial Intelligence and Robotics library for the .NET Framework\nOpenCV Computer Vision Library in C++\nMachine Learning\nSee Data Mining below\nSee R programming language\u2014packages of statistical learning and analysis tools\nPlanning\nTREX Reactive planning\nRobotics\nROS Robot Operating System\nCAD[edit]\nMain category: Free computer-aided design software\nElectronic design automation (EDA)[edit]\nMain category: Free electronic design automation software\nComputer simulation[edit]\nBlender; 3D modeling software written in Python and C++ that can make animations and graphics for games\nSimPy; queue-theoretic event-based simulator written in Python\nflightgear is an open source flight simulator written for Windows, Mac OS X, and GNU/Linux.\nFinance[edit]\nAdempiere \u2014 ERP Business Suite\nBitcoin \u2014 Peer to peer decentralised digital currency.\nBonita Open Solution \u2014 Business Process Management\nCompiere \u2014 ERP solution automates accounting, supply chain, inventory and sales orders\nCyclos \u2014 Software for microfinance institutions, complementary currency systems and timebanks\nEbase \u2014 Constituent relationship management developed especially for non-profit organizations\nFrontaccounting \u2014 web-based Double-entry book-keeping and ERP system\nGnuCash \u2014 Double-entry book-keeping\nGrisbi \u2014 Single-entry\nHomeBank \u2014 for personal use\njFin\nJFire \u2014 an ERP Business Suite written with Java and JDO\nJGnash \u2014 Java-based, double-entry book-keeping\nJQuantLib \u2014 Java-based Quantitative Finance API framework for financial instrument valuation and more...\nKMyMoney \u2014 Double-entry book-keeping\nLedgerSMB \u2014 Double-entry book-keeping\nMifos \u2014 Microfinance Institution management software\nOpenbravo\nOpenERP \u2014 ERP system\nOrangeHRM \u2014 Commercial Human Resource Management\nPostbooks \u2014 Integrated Accounting and ERP Business Suite\nQuickFIX \u2014 FIX protocol engine written in C++ with additional C#, Ruby, and Python wrappers\nQuickFIX/J \u2014 FIX protocol engine written in Java\nReOS \u2014 Web-based real estate listing management application\nSQL Ledger \u2014 Double-entry book-keeping\nSugarCRM \u2014 Commercial Customer Relationship Management\nTryton\nTurboCASH \u2014 Double-entry book-keeping for Windows\nvtiger CRM \u2014 Customer Relationship Management(CRM) software with Sales force automation, marketing management,Customer Service/Support,Inventory Management\nWebERP \u2014 web-based ERP system\nSee also: Comparison of accounting software\nIntegrated Library System[edit]\nEvergreen\nKoha\nNewGenLib\nOpenBiblio\nPMB\nrefbase \u2014 Web-based institutional repository and reference management software\nImage editor[edit]\nGIMP \u2014 GNU Image Manipulation Program\nInkscape - An Open Source vector graphics editor.\nMathematics[edit]\nFor a more comprehensive list, see List of open-source software for mathematics.\nReference management software[edit]\nSee Comparison of reference management software.\nScience[edit]\nMain category: Free science software\nBioinformatics[edit]\nSee List of open source bioinformatics software.\nCheminformatics[edit]\nChemistry Development Kit\nJOELib\nOpenBabel\nGeographic Information Systems[edit]\nMain category: Free GIS software\nGrid Computing[edit]\nP-GRADE Portal \u2014 Grid portal software enabling the creation, execution and monitoring of workflows through high-level Web interfaces\nMicroscope image processing[edit]\nCellProfiler\nEndrov\nFIJI (software)\nImageJ\nMolecular dynamics[edit]\nAscalaph Designer\nGROMACS\nLAMMPS\nMDynaMix\nNAMD\nMolecule viewer[edit]\nAvogadro\nBALLView\nJmol\nMolekel\nMeshLab, able to import PDB dataset and build up surfaces from them\nPyMOL\nQuteMol\nRasMol\nNanotechnology[edit]\nNinithi \u2014 visualize and analyze the carbon allotropes such as Carbon nanotube, Fullerene, Graphene nanoribbons\nPlotting[edit]\nMain category: Free plotting software\nStatistics[edit]\nMain category: Free statistical software\nSurveys[edit]\nLimeSurvey \u2014 Online survey system\nAssistive technology[edit]\n\nSpeech (synthesis and recognition)[edit]\nCMU Sphinx \u2014 Speech recognition software from Carnegie Mellon University\nEmacspeak \u2014 Audio desktop\nESpeak \u2014 compact software speech synthesizer for English and other languages\nFestival Speech Synthesis System\nModular Audio Recognition Framework \u2014 voice, audio, speech NLP processing\nNonVisual Desktop Access \u2014 (NVDA) Screen reader for Windows\nText2Speech \u2014 Lightweight and easy to use Text To Speech (TTS) Software\nOther assistive technology[edit]\nDasher \u2014 Unique text input software\nGnopernicus \u2014 AT suite for GNOME 2\nVirtual Magnifying Glass \u2014 a multiplatform, screen magnification tool.\nData storage and management[edit]\n\nBackup software[edit]\nMain category: Free backup software\nDatabase management systems (including administration)[edit]\nMain category: Free database management systems\nData mining[edit]\nEnvironment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) \u2014 data mining software framework written in Java with a focus on clustering and outlier detection methods.\nSCaViS \u2014 Java-based data analysis framework\nKonstanz Information Miner (KNIME)\nOrange (software) \u2014 data visualization and data mining for novice and experts, through visual programming or Python scripting. Extensions for bioinformatics and text mining.\nRapidMiner \u2014 data mining software written in Java, fully integrating Weka, featuring 350+ operators for preprocessing, machine learning, visualization, etc.\nScriptella ETL \u2014 ETL (Extract-Transform-Load) and script execution tool. Supports integration with J2EE and Spring. Provides connectors to CSV, LDAP, XML, JDBC/ODBC and other data sources.\nWeka \u2014 data mining software written in Java featuring machine learning operators for classification, regression, and clustering.\nJasperSoft \u2014 data mining with programmable abstraction layer.\nData Visualization Components[edit]\nParaView plotting and visualization functions developed by Sandia National Laboratory, capable of massively parallel flow visualization utilizing multiple computer processors\nVTK is a toolkit for 3D computer graphics, image processing and visualization.\nDigital Asset Management software[edit]\nOpenDAM, Free Open Source Digital Asset Management for enterprise content management integration, to manage image, pictures and video files.\nDisk partitioning software[edit]\nMain category: Free partitioning software\nEnterprise search engines[edit]\nApexKB, formerly known as Jumper\nLucene\nNutch\nSolr\nXapian\nETLs (Extract Transform Load)[edit]\nCloverETL (Community Edition)\nKonstanz Information Miner (KNIME)\nPentaho\nSpagoBI\nTalend\nFile archivers[edit]\nMain category: Free data compression software\nFile Systems[edit]\nOpenAFS \u2014 a distributed file system supporting a very wide variety of operating systems\nTahoe-LAFS \u2014 a distributed file system/Cloud storage system with integrated privacy and security features\nCephFS \u2014 a distributed file system included in the Ceph storage platform.\nNetworking and Internet[edit]\n\nAdvertising[edit]\nOpenX\nCommunication-related[edit]\nAsterisk \u2014 Telephony and VoIP server\nEkiga \u2014 Video conferencing application for GNOME and Microsoft Windows\nFreePBX \u2014 Front-end and advanced PBX configuration for Asterisk\nFreeSWITCH \u2014 Telephony platform\nJitsi \u2014 Java VoIP and Instant Messaging client\nOpenSER \u2014 SIP proxy server, call router, and user agent registration server.\nQuteCom \u2014 Free Voice, Video and IM client application\nsipX \u2014 SIP Communications Server\nSlrn \u2014 a newsreader\nTwinkle \u2014 VOIP softphone\nE-mail[edit]\nMain category: Free email software\nFile transfer[edit]\nMain category: Free file transfer software\nInstant messaging[edit]\nMain category: Free instant messaging clients\nIRC Clients[edit]\nMain category: Free Internet Relay Chat clients\nMiddleware[edit]\nApache Axis2 \u2014 Web service framework (implementations are available in both Java & C)\nApache Geronimo\nBonita Open Solution(software) \u2014 a J2EE web application and java BPMN2 compliant engine\nGlassFish Application Server\nJakarta Tomcat \u2014 a servlet container and standalone webserver\nJBoss Application Server an application server\nObjectWeb JOnAS \u2014 Java Open Application Server, a J2EE application server\nSmartVariables \u2014 a generic network-shared object application server\nTAO (software) \u2014 C++ implementation of the OMG's CORBA standard\nRSS/Atom readers/aggregators[edit]\nAkregator \u2014 Platforms running KDE\nLiferea \u2014 Platforms running GNOME\nRSS Bandit \u2014 Windows - .NET\nRSSOwl \u2014 Windows, Mac OS X, Solaris, Linux - Java SWT Eclipse\nSage (Mozilla Firefox extension)\nPeer-to-peer file sharing[edit]\nMain category: Free file sharing software\nSee also category: Free BitTorrent clients\nPortal Server[edit]\nDrupal\nLiferay\nOxwall \u2014 Community site software\nSun Java System Portal Server\nuPortal\nRemote access and management[edit]\nFreeNX\nOpenVPN\nrdesktop\nSynergy\nVNC (RealVNC, TightVNC, UltraVNC)\nFreeRDP\nRouting software[edit]\nMain category: Free routing software\nWeb browsers[edit]\nMain category: Free web browsers\nWebcam[edit]\nCheese\nWebgrabber[edit]\ncURL\nHTTrack\nWget\nWeb-related[edit]\nApache Cocoon \u2014 a web application framework\nApache \u2014 the most popular web server\nAWStats \u2014 a log file parser and analyzer\nBookmarkSync \u2014 a tool for browsers\nCherokee \u2014 Speedy, feature rich HTTP Server\nCougarXML \u2014 a Javascript framework for parsing and manipulating XML code, based on W3C DOM Level-3 specifications.\ncurl-loader \u2014 a powerful HTTP/HTTPS/FTP/FTPS loading and testing open-source tool\nHiawatha \u2014 Secure, high performance and easy-to-configure HTTP Server\nHTTP File Server \u2014 a user friendly file server software with a drag and drop interface\nICDL Crawling \u2014 a distributed web crawler based on Website Parse Template\nlighttpd \u2014 Resource sparing but also fast and full featured HTTP Server\nnginx \u2014 lightweight, high performance web server/reverse proxy and e-mail (IMAP/POP3) proxy\nNetKernel \u2014 an internet application server\nPiwik \u2014 a web analytics system\nQcodo \u2014 a PHP5 framework\nRailo \u2014 CFML Application Server\nSquid (software) \u2014 web proxy cache\nXAMPP \u2014 a package of web applications including Apache and MySQL\nZope \u2014 a web application server\nOther networking programs[edit]\nJXplorer \u2014 a LDAP client\nOpenLDAP \u2014 a LDAP server\nopenVXI \u2014 a VoiceXML interpreter\nYaCy \u2014 P2P-based search engine\nEducational[edit]\n\nEducational suites[edit]\nATutor \u2014 a web-based Learning Content Management System (LCMS)\nChamilo \u2014 a web-based e-learning and content management system\nDoceboLMS\neFront \u2014 an icon-based learning management system\nGCompris\nGnaural \u2014 Brainwave entrainment software\nIUP Portfolio\nILIAS \u2014 a web-based learning management system (LMS)\nMoodle\nOmeka\nopenSIS \u2014 a web-based Student Information and School Management System system\nSakai Project \u2014 a web-based learning management system\nSWAD - a web-based learning management system\nTux Paint \u2014 a paint application for 3\u201312 year olds\nGeography[edit]\nKGeography\nLearning support[edit]\nMain category: Free learning support software\nLanguage[edit]\nKiten\nKVerbos\nTyping[edit]\nKTouch\nTux Typing\nOther educational programs[edit]\nKEduca\nFile managers[edit]\n\nMain category: Free file managers\nGames[edit]\n\nMain article: List of open source games\nApplication layer[edit]\nWINE\nGenealogy[edit]\n\nMain category: Free genealogy software\nGraphical user interface[edit]\n\nDesktop environments[edit]\nMain category: Free desktop environments\nWindow managers[edit]\nMain category: Free X window managers\nWindowing system[edit]\nMain category: Free windowing systems\nGroupware[edit]\n\nMain category: Free groupware\nContent management systems[edit]\nMain category: Free content management systems\nWiki software[edit]\nMain category: Free wiki software\nHealthcare software[edit]\n\nMain article: List of open source healthcare software\nMain article: List of Open Source Bioinformatics software\nMedia[edit]\n\n2D animation[edit]\nKToon\nPencil\nSynfig\nPivot Stickfigure Animator\n3D animation[edit]\nArt of Illusion\nBlender\nK-3D\nOpenFX\nSeamless3d\nAudio editors / audio management[edit]\nMain article: Free audio software\nCD-writing software[edit]\nMain category: Free optical disc authoring software\nFlash animation[edit]\nPencil Animation (for animations)\nSWFTools (for scripting)\nGraphics[edit]\nMain category: Free graphics software\nImage galleries[edit]\nMain category: Free image galleries\nImage viewers[edit]\nEye of GNOME\nF-spot\nGeeqie\nGthumb\nGwenview\nKphotoalbum\nOpticks\nViewnior\nMultimedia codecs / containers / splitters[edit]\nMain category: Free multimedia codecs, containers, and splitters\nTelevision[edit]\nMain category: Free television software\nSee also: Comparison of PVR software packages\nVideo converters[edit]\nMain category: Free video conversion software\nDr. DivX\nFFmpeg\nMEncoder\nOggConvert\nTranscode\nVideo editing[edit]\nSee also: List of video editing software#Free_and_open-source\nAvidemux\nAviSynth\nBlender\nCinelerra\nDScaler\nDVD Flick\nKaltura\nKino\nKdenlive\nLiVES\nOpenShot Video Editor\nPiTiVi\nVirtualDub\nVirtualDubMod\nVLMC \u2014 VideoLAN Movie Creator is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X!\nVideo encoders[edit]\nMain article: Comparison of video encoders\nAvidemux\nHandBrake\nVideo players[edit]\nMain article: Comparison of video player software\nOther media packages[edit]\nCeltx \u2014 Media Pre-production Software\nGnome Subtitles\nOperating systems[edit]\n\nBe advised that available distributions of these systems can contain, or offer to build and install, added software that is neither free software nor open source.\nMain category: Free software operating systems\nEmulation and Virtualisation[edit]\nMain category: Free emulation software\nMain category: Free virtualization software\nVirtual Box\nPassword management[edit]\n\nKeePass\nPassword Safe\nPersonal information managers[edit]\n\nChandler \u2014 developed by the OSAF.\nKAddressBook\nKontact\nKOrganizer\nMozilla Calendar \u2014 A Mozilla-based, multiplatform calendar program.\nNovell Evolution\nOpenSync (software)\nProject.net \u2014 Commercial Project Management\nTeamLab \u2014 Platform for project management and collaboration\nProgramming language support[edit]\n\nMain article: List of open-source programming languages\nBug trackers[edit]\nBugzilla\nMantis\nMindquarry\nRedmine\nTrac\nCode generators[edit]\nBison\nCodeSynthesis XSD \u2014 XML Data Binding compiler for C++\nCodeSynthesis XSD/e \u2014 Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems\nFlex lexical analyser\nKodos\nOpen Scene Graph \u2014 3D graphics application programming interface\nOpenSCDP \u2014 Open Smart Card Development Platform\nphpCodeGenie\nSableCC \u2014 parser generator for Java and .Net\nSWIG \u2014 Simplified Wrapper and Interface Generator for several languages\n^txt2regex$\nxmlbeansxx \u2014 XML Data Binding code generator for C++\nYAKINDU Statechart Tools statechart code generator for C++ and Java\nConfiguration software[edit]\nAutoconf\nAutomake\nCMake\nDebuggers (for testing and trouble-shooting)[edit]\nGNU Debugger \u2014 \"works for many programming languages [...]\"\nJSystem \u2014 Test Automation Framework\nMemtest86 \u2014 Stress-tests RAM on x86 machines\nXnee \u2014 Record and replay tests\nIntegrated development environments[edit]\nMain category: Free integrated development environments\nVersion control systems[edit]\nMain category: Free revision control software\nScreensavers[edit]\n\nBoinc\nElectric Sheep\nXScreenSaver\nSecurity[edit]\n\nAnti-virus[edit]\nClamAV\nClamWin\nGateway Anti-Virus\nData loss prevention[edit]\nMyDLP\nData recovery[edit]\ndvdisaster\nForemost\nPhotoRec\nTestDisk\nSee also: List of data recovery software\nForensics[edit]\nThe Coroner's Toolkit\nThe Sleuth Kit\nDisk erasing[edit]\nDBAN\nsrm\nEncryption[edit]\nGnuPG\nGnuTLS\nKGPG\nOpenSSL\nSeahorse\nDisk encryption[edit]\nCrossCrypt\nFreeOTFE and FreeOTFE Explorer\neCryptfs\nFirewall[edit]\nCoyote Linux\nFirestarter\nIPCop\nIPFilter\nIPFire\nipfw\nIptables\nM0n0wall\nPeerGuardian\nPF\npfSense\nRope\nShorewall\nSmoothWall\nUntangle\nVyatta\nNetwork and security monitoring[edit]\nMain category: Free network management software\nSecure Shell (ssh)[edit]\nCyberduck \u2014 Mac OS X and Windows client (since version 4.0)\nLsh \u2014 server and client (supporting SRP and Kerberos authentication)\nOpenSSH \u2014 client/server\nPuTTY \u2014 client only\nOther security programs[edit]\nMain category: Free security software\nTheology[edit]\n\nBible study tools[edit]\nBibleDesktop \u2014 For Cross-platform\nBibleTime \u2014 For Linux using KDE\nGo Bible \u2014 For Java Mobile Phones\njSword \u2014 For Java\nMacSword \u2014 For Mac OS X\nMarcion \u2014 For Linux and Windows, using Qt UI Framework and embedded MySql server\nopenlp.org \u2014 Worship presentation software for churches to display songs, bibles, movies etc.\nSwordBible \u2014 For Windows\nThe SWORD Project for Windows \u2014 For Windows\nXiphos The_SWORD_Project \u2014 For Linux using GNOME\nTypesetting[edit]\n\nMain category: Free typesetting software\nSee also[edit]\n\nPortal icon Free software portal\nList of GNOME applications\nList of GNU packages\nList of KDE applications\nList of liberated software\nList of Unix programs\nGeneral directories[edit]\nSourceForge.net\nFreshmeat\nOhloh\nCodePlex\nReferences[edit]\n\nJump up ^ Richard Stallman (July 13, 2011). \"Why Open Source misses the point of Free Software\". Retrieved August 24, 2011.\nExternal links[edit]\n\nGeneral Directories[edit]\nFree Software Directory \u2014 The Free Software Directory of the Free Software Foundation.\nOpen Source Software Directory \u2014 Provides a list of open source software organized by categories.\nOpen Source Living \u2014 Open Source Living is a community-driven dynamic archive of Open Source software.\nOhloh \u2014 Ohloh is an open source directory that anyone can edit.\nOpen source for Windows[edit]\nList Of Open-source Programs (LOOP list) for Windows\nTheOpenDisc.com pre-assembled disc of OSS for Windows (successor to TheOpenCD.org)\nThe OSSwin project: Open Source for Windows!\nOther directories[edit]\nThe OpenScience Project \u2014 Open Source software for science and mathematics\nFreeOpenSourceSoftware.org \u2014 Wiki on FOSS including sources, directories, system & application software indexes.\n[hide] v t e\nFree and open-source software\nGeneral \nAlternative terms for free software Comparison of open source and closed source Comparison of open-source software hosting facilities Formerly proprietary software Free and open-source Android applications Free and open-source software packages Free software Free software events Free software movement Free software project directories Free software web applications Gratis versus libre Long-term support Open-source software Outline SPDX\nOperating system\nfamilies \nAROS BSD Darwin eCos FreeDOS GNU Haiku Inferno Linux Mach MINIX OpenSolaris Plan 9 ReactOS\nDevelopment \nBasic For Qt Eclipse Free Pascal FreeBASIC Gambas GCC Java LLVM Lua NetBeans Open64 Perl PHP Python ROSE Ruby Tcl\nHistory \nGNU Haiku Linux Mozilla Application Suite Firefox Thunderbird\nOrganizations \nAndroid Open Source Project Apache Software Foundation Blender Foundation The Document Foundation Eclipse Foundation Free Software Foundation Europe India Latin America FreeBSD Foundation freedesktop.org FSMI GNOME Foundation GNU Project Google Code KDE e.V. Linux Foundation Mozilla Foundation Open Knowledge Foundation Open Source Geospatial Foundation Open Source Initiative Software Freedom Conservancy SourceForge Symbian Foundation Ubuntu Foundation X.Org Foundation Xiph.Org Foundation XMPP Standards Foundation\nLicenses \nApache Artistic Beerware Boost BSD CC0 GNU GPL GNU LGPL ISC MIT MPL Ms-PL/RL WTFPL zlib\nLicense types\nand standards \nComparison of free and open-source software licenses Contributor License Agreement Copyfree Copyleft Debian Free Software Guidelines Definition of Free Cultural Works Free license The Free Software Definition The Open Source Definition Open-source license Permissive free software licence Public domain Viral license\nChallenges \nBinary blob Digital rights management Free and open-source graphics device driver Hardware restrictions License proliferation Mozilla software rebranding Proprietary software SCO\u2013Linux controversies Secure boot Software patents Software security Trusted Computing\nRelated topics \nThe Cathedral and the Bazaar Forking Linux distribution Microsoft Open Specification Promise Revolution OS"
+            }
+        ]
+    },
+    {
+        "id": "908840895819592",
+        "name": "Open Source UPIITA-IPN",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 03 10:10:18 EST 2016",
+                "id": "908840895819592_949087765128238"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 14 13:05:19 EST 2016",
+                "id": "908840895819592_939944759375872"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 13 10:00:28 EST 2016",
+                "id": "908840895819592_939452402758441"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 18 15:51:39 EST 2015",
+                "id": "908840895819592_927063493997332"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Nov 12 19:24:37 EST 2015",
+                "id": "908840895819592_912293758807639",
+                "message": "Si lo que buscas es una computadora completamente Open Source...\nhttp://www.neoteo.com/libreboot-la-vision-de-un-bios-libre-y-open-source"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Nov 03 21:11:00 EST 2015",
+                "id": "908840895819592_908845932485755"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Nov 03 20:57:00 EST 2015",
+                "id": "908840895819592_908843062486042"
+            }
+        ]
+    },
+    {
+        "id": "293689834134111",
+        "name": "Open Source Écologie",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 03 04:07:41 EST 2016",
+                "id": "293689834134111_518743298295429",
+                "message": "Vous connaissez la plateforme #Goteo ? Celle ci est réservée à des projets librement reproductibles, sans but lucratif et d'intérêt général. via We Demain"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 30 05:18:33 EST 2016",
+                "id": "293689834134111_517263438443415",
+                "message": "Ce samedi pluvieux et venteux vous déprime ? Alors venez discuter avec nous d'énergie solaire !\nC'est à partir de 15h au Jardin d'Alice à Montreuil !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 27 17:11:06 EST 2016",
+                "id": "293689834134111_516446721858420"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 27 17:04:26 EST 2016",
+                "id": "293689834134111_516444748525284",
+                "message": "Tests à Avignon au mois de janvier : tout fonctionne ! record à 9 bars et 180°C. Des patates cuites au soleil... \n\nBientôt plus de nouvelles ! \n\nEt notamment samedi à Montreuil pour notre Mini-Festival Open Source Ecologie : \nhttps://www.facebook.com/events/1972383429654437/?ref=3&ref_newsfeed_story_type=regular&feed_story_type=117&action_history=null"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Mon Jan 25 16:23:25 EST 2016",
+                    "id": "515740541929038_515757551927337",
+                    "message": "Et ce sera TOP ! Surtout si vous êtes là !!!"
+                }],
+                "createdTime": "Mon Jan 25 15:24:27 EST 2016",
+                "id": "293689834134111_515740541929038",
+                "message": "On a rencontré les amis d'Open Bidouille Camp à Courthézon, proche d'Avignon (84). Ce sera le 26 Mars et ça a l'air top !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 23 13:51:52 EST 2016",
+                "id": "293689834134111_1972383429654437"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 17 06:16:56 EST 2015",
+                "id": "293689834134111_502004773302615",
+                "message": "Retour sur le déroulement du projet #POC21 où notre prototype #SolarOse a vu le jour. Les collectifs OuiShare et Open State ont filmé le déroulement du projet #POC21 (Proof of Concept) l'été dernier, au château de Millemont. \n\nDocumentaire «Proof of Concept», réalisé par Sam Muirhead du collectif OuiShare, produit par Creative Commons. 59 minutes."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 13 12:23:13 EST 2015",
+                "id": "293689834134111_500916096744816",
+                "message": "A voir absolument jusqu'au bout !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 10 07:56:52 EST 2015",
+                "id": "293689834134111_500024706833955",
+                "message": "Nous présenterons le projet demain au Hackadon ! \n\nLe public distribue l'argent récolté par Without Model pour l'occasion.\nNous avons donc besoin de vous pour venir voter et nous permettre de récolter un peu d'argent.\n\nVenez nombreux !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 09 15:47:10 EST 2015",
+                "id": "293689834134111_499795866856839"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 04 05:42:15 EST 2015",
+                "id": "293689834134111_498357137000712",
+                "message": "Salut à tous, \nNous présenterons le projet Solar-OSE au hackadon de Without Model vendredi 11 Décembre !\nVenez nombreux !"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Wed Nov 25 12:09:16 EST 2015",
+                    "id": "495777143925378_495781430591616",
+                    "message": "excellent ^^"
+                }],
+                "createdTime": "Wed Nov 25 11:42:00 EST 2015",
+                "id": "293689834134111_495777143925378",
+                "message": "Un restaurant solaire en projet ! \nLa cuisine sera effectuée avec un concentrateur solaire parabolique de type Scheffler. \n\nLe projet est en financement sur Ulule, ne pas hésiter ! :)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 23 14:06:25 EST 2015",
+                "id": "293689834134111_495235323979560"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 23 07:48:08 EST 2015",
+                "id": "293689834134111_495142820655477",
+                "message": "Vendredi prochain : projection du docu POC21 !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 20 11:16:16 EST 2015",
+                "id": "293689834134111_494303987406027",
+                "message": "Merci Makery pour cet article très complet !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 11 05:57:52 EST 2015",
+                "id": "293689834134111_491436711026088"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 11 05:54:51 EST 2015",
+                "id": "293689834134111_491436411026118",
+                "message": "Événement facebook pour participer à notre soirée d'anniversaire !\nhttps://www.facebook.com/events/999073000173493/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 11 04:27:29 EST 2015",
+                "id": "293689834134111_491415631028196",
+                "message": "Merci encore à tous nos contributeurs pour leur soutien ! \n\nEt merci aussi à nos partenaires qui ont rendu le projet possible : \nLa Paillasse \nPOC21\nLibreHardware (librehw.com)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 08 04:18:36 EST 2015",
+                "id": "293689834134111_490549484448144",
+                "message": "Hourra !\n\nAprès 40 jours d'émotions, notre campagne se termine ! Ensemble, nous avons dépassé notre objectif initial !\n\nMerci pour vos soutiens, vos partages et votre implication dans ce projet ! Cette victoire est avant tout la votre !\n\nSi la campagne se termine aujourd'hui, l'aventure Solar OSE ne fait que commencer ! Ensemble nous construirons ce premier concentrateur solaire open source et citoyen ! \n\nMerci à tous et à très vite !"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Nov 07 10:57:11 EST 2015",
+                "id": "293689834134111_490302404472852",
+                "message": "[H-6] Plus que quelques heures pour contribuer à la campagne de crowdfunding et nous aider à fabriquer le concentrateur solaire #opensource Solar-Ose \nhttp://fr.ulule.com/solar-ose/ \n#OsezLaTransition"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 06 13:18:06 EST 2015",
+                "id": "293689834134111_490080477828378"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 06 09:25:24 EST 2015",
+                "id": "293689834134111_490014437834982",
+                "message": "the open source documentation for the Solar OSE, the first Open Hardware solar concentrator - with linear fresnel reflectors, is now fully available on Instructables.\r\nIt's all about distributing the power to use your own CLEAN energy soruce without planned obsolescence. \r\nit's all about distributing the means of production for a more decentralized production. \r\nIt's all about Choice.\r\nCheck it out, \r\nrepllicate it and improve it in CC-BY-SA,\r\nshare it around you,\r\nand help us improve it by supporting our crowdfunding campaign www.ulule.com/solar-ose"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Nov 05 14:22:23 EST 2015",
+                "id": "293689834134111_489822237854202",
+                "message": "Vous avez toujours voulu savoir comment on construit un Solar OSE, mais vous n'avez jamais osé demander?\nAllez rien que pour vous, un manuel Solar OSE, qui décrit étapes par étapes la création d'un Solar OSE..."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Nov 05 13:24:23 EST 2015",
+                "id": "293689834134111_489810984521994",
+                "message": "Une journée ordinaire à POC21...\n\nhttps://ulule.com/solar-ose"
+            },
+            {
+                "comments": [
+                    {
+                        "createdTime": "Wed Nov 04 11:29:22 EST 2015",
+                        "id": "489500931219666_489501447886281",
+                        "message": "http://gph.is/Z0X5Ea"
+                    },
+                    {
+                        "createdTime": "Wed Nov 04 13:57:38 EST 2015",
+                        "id": "489500931219666_489531991216560",
+                        "message": "Superrrr, mil felicidades\nHoy en Colombia se discute - como hacer en Navidad, si no hay agua y queremos encender los alumbrados Navideños ?-....\nAquí está la respuesta......,"
+                    }
+                ],
+                "createdTime": "Wed Nov 04 11:28:27 EST 2015",
+                "id": "293689834134111_489500931219666",
+                "message": "ANNONCE SPÉCIALE : L'objectif initial des 7000\u20ac est atteint !\n\n!!  - Merci et Bravo - !! - Continuons au delà des 100% - !!\n\nMerci aux contributeurs et aux relais pour leur soutien financier et humain !\n\nLa campagne s'est accélérée en début de semaine avec 32 contributeurs et 1500\u20ac récoltés en environ 24h et il reste encore quelques jours avant la clôture.\n\nAu rythme actuel, les paliers supérieurs sont tout à fait à notre portée !\nAvec 11000\u20ac nous pourrons payer les matériaux pour un prototype supplémentaire : nous choisirons ensemble, membres et contributeurs, parmi l'alambic ou le four. \n\n=> https://fr.ulule.com/solar-ose/  <="
+            }
+        ]
+    },
+    {
+        "id": "180700565289630",
+        "name": "UCTI FOSS (Free and Open Source Software)",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 11 09:34:20 EDT 2015",
+                "id": "180700565289630_1229054117120931",
+                "message": "PERCUMA SEMINAR FOREX! Ye, betul.. PERCUMA! TAK PERLU BAYAR APA-APA!\nTARIKH : 16hb September 2015 (Rabu)\nMASA : 8:30PM - 10:30PM\nPERCUMA utk 100 org yang terawal! (81 seat percuma masih kosong)\nSEMINAR Richmond Trading Academy & Live Trade\nDAFTAR SEKARANG UNTUK SEAT PERCUMA SEBELUM TERLAMBAT!\nhttp://goo.gl/forms/Q1S89UlvI1\n\nRegister here --> http://goo.gl/forms/Q1S89UlvI1\n==================================\nRamai khabar angin mendakwa bahawa kejayaan boleh dicapai dalam forex. Tetapi bagi yang telah berjaya, mereka enggan berkongsi tentang rahsia mereka, \nmalah mengenakan yuran kepada sesiapa yang ingin mendapatkan tips atau strategi daripada mereka.\nDalam Seminar Richmond Trading Academy & Live Trade, kami menawarkan bimbingan percuma untuk 100 pelajar pertama sepanjang hayat melalui signal dan live trading. \nAnda tidak perlu bimbang dan boleh saksikan sendiri bagaimanakah kami mengaut keuntungan daripada forex.\nTujuan seminar ini adalah untuk berkongsi ilmu dan kisah kejayaan kepada pelajar kami. Matlamat kami adalah memastikan semua trader memahami strategi untuk membuat keuntungan yang berterusan dalam arena forex.\n- Ini bukan Money Game\n- Ini bukan MLM\n- Ini bukan Networking\n- Ini bukan Digital Currency\n- Ini bukan Skim Cepat Kaya\n==================================\nKami hanya menyediakan perkhidmatan untuk membantu melanjutkan ilmu anda tentang forex. Tawaran kami:\n- Seminar percuma\n- Live Trade menggunakan teknik berkesan daripada ajaran kami\n- Kelas percuma\n- Sokongan seumur hidup dari Whatsapp & Kumpulan Facebook\n- \u201cEntry Signal\u201d Percuma setiap hari\n- Ajaran peribadi percuma (konsep 'one to one')\n- Teknik, sokongan dan penunjuk percuma\n==================================\nJika berminat untuk menyertai komuniti kami, anda dijemput untuk menghadiri sesi kami seperti berikut:\nAlamat: Tingkat 3, Aloft Hotel, KL Sentral \nTarikh : 16hb September 2015 (Rabu)\nMasa : 8:30PM - 10:30PM\nYuran : RM289 (Percuma kepada 100 pendaftaran terawal sahaja)\nWaze Link (copy and paste kepada browser phone):\nwaze://?ll=3.132865,101.68604&navigate=yes\nAtau (boleh cari 'Aloft Hotel, KL Sentral' melalui Waze. Tanda berhampiran ialah Plaza Sentral). \nRebat untuk parkir kereta boleh didapati dalam Aloft Hotel sebagai tetamu acara hotel.\nLink pendaftaran: \nhttp://goo.gl/forms/Q1S89UlvI1\n==================================\nBONUS !!\nAnda berpeluang memenangi wang tunai bernilai USD100 dengan cara\n1. Klik 'Like Page' Richmond Trading Academy\n2. Klik 'Like post' ini dan 'Share Post' ini di TimeLine anda dan di bawah ruangan 'Say Something about This', anda perlu taip 'Saya nak sertai RTA Seminar & Live Trade'\n3. Pemenang akan ditentukan berdasarkan bilangan 'Like + Comment' yang banyak.\n4. Hadiah wang tunai USD100 akan diberikan pada 16/9/2015 semasa seminar berlangsung.\n==================================\n#RichmondTradingAcademy \n#RTA \n#Success \n#Motivation \n#Confident \n#GainMoreKnowledge \n#WorkFromHome \n#FinancialFreedom \n#LiveTrade\n\nhttps://www.facebook.com/RichmondTradingAcademy/posts/642222842583984"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Mon Nov 25 22:47:45 EST 2013",
+                    "id": "729283713764643_91975388",
+                    "message": ":)"
+                }],
+                "createdTime": "Fri Sep 13 02:50:49 EDT 2013",
+                "id": "180700565289630_729283713764643"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 12 16:37:07 EDT 2013",
+                "id": "180700565289630_729082217118126",
+                "message": "hahaha!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 06 04:59:05 EDT 2013",
+                "id": "180700565289630_724956970863984"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 05 12:35:36 EDT 2013",
+                "id": "180700565289630_724569364236078"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Aug 03 15:59:28 EDT 2013",
+                "id": "180700565289630_704999029526445"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jul 30 11:56:37 EDT 2013",
+                "id": "180700565289630_702653816427633"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jun 10 11:46:11 EDT 2013",
+                "id": "180700565289630_672894162736932"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 31 08:21:14 EDT 2013",
+                "id": "180700565289630_667211513305197"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 31 08:18:44 EDT 2013",
+                "id": "180700565289630_667210513305297"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 31 08:18:36 EDT 2013",
+                "id": "180700565289630_667210473305301"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 16 17:30:40 EDT 2013",
+                "id": "180700565289630_659392827420399"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 05 13:18:48 EDT 2013",
+                "id": "180700565289630_653396481353367"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 18 05:50:42 EST 2013",
+                "id": "180700565289630_452775088127617"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 23 15:31:38 EST 2013",
+                "id": "180700565289630_522806264418827"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jan 20 19:27:23 EST 2013",
+                "id": "180700565289630_202437819895088",
+                "message": "Hi UCTI Peeps! Greetings! Check this out. I just created python script to download schedule. Any request from other university. Just follow me and drop me a message ;)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 19 07:12:01 EST 2013",
+                "id": "180700565289630_236608203140849"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Oct 19 05:59:12 EDT 2012",
+                "id": "180700565289630_398079960264405",
+                "message": "Please share."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Oct 08 18:21:11 EDT 2012",
+                "id": "180700565289630_112889232201855",
+                "message": "#HITB2012KUL iOS Security Panel LIVE STREAM starts at 13:30 MYT / 01:30 EDT / 06:30 BST / 07:30 CET 11 Oct"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jul 16 12:08:40 EDT 2012",
+                "id": "180700565289630_259926360784264"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jul 12 11:39:24 EDT 2012",
+                "id": "180700565289630_497681183591565",
+                "message": "Thor ...."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue May 29 16:16:21 EDT 2012",
+                "id": "180700565289630_470887382937612",
+                "message": "Good morning early birds, there may be less updates in UCTI FOSS for the past few months. But do stay tuned for our coming news and updates. Lastly, thank you much for your supports. Have a nice day! - Penguin Linux."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue May 29 15:56:56 EDT 2012",
+                "id": "180700565289630_470873899605627",
+                "message": "\"I have not failed. I've just found 10000 ways that won't work\" Great motivation quote that is worth sharing."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue May 29 15:53:23 EDT 2012",
+                "id": "180700565289630_470871602939190",
+                "message": "Just for laughs. All the best to the candidates out there who are sitting for the coming/existing examinations :)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue May 29 15:46:08 EDT 2012",
+                "id": "180700565289630_470867176272966",
+                "message": "Agree much?"
+            }
+        ]
+    },
+    {
+        "id": "116321938721705",
+        "name": "Open Source High",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 14:31:20 EST 2016",
+                "id": "116321938721705_205306693156562",
+                "message": "Please share with high school students:\n \nWe just announced our February student video lesson contest with tons of prizes.\n \n$150 cash prize to the top video\nT-shirts to the top 10.\nPlus prizes for \"Highest Production Value,\" \"Most Creative,\" and \"Funniest.\"\n \nCome on over to OpenSourceHigh.com and join our peer-to-peer teaching revolution!\n\n-- \nJim Flannery\nFounder, Open Source High\nopensourcehigh.com"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 03 21:33:44 EST 2016",
+                "id": "116321938721705_204970426523522",
+                "message": "Winners announced for our January student video lesson contest!!\n\nVisit OpenSourceHigh.com to see all their amazing creations!!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 22 21:57:00 EST 2016",
+                "id": "116321938721705_198860333801198",
+                "message": "A great biology video from one of our newest students!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 14 11:14:54 EST 2016",
+                "id": "116321938721705_194629274224304"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 14 09:37:39 EST 2016",
+                "id": "116321938721705_194577927562772",
+                "message": "One of the grossest explanations of hunting and eating habits of paleolithic man I've ever seen...."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 17:44:19 EST 2016",
+                "id": "116321938721705_192231041130794",
+                "message": "Rube Goldberg ball machine... Audio kinetic sculpture!!! #rubegoldberg #physics #audiokineticsculpture #museumofscience #bostonsciencemuseum #boston #mechanical #bouncing #engineering #engineer #music #creativemind #islandofmisfittoys #mindfuck"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 16:21:04 EST 2016",
+                "id": "116321938721705_192207327799832",
+                "message": "Getting weird at museum of science in Boston with @sherrihuang #museumofscience #bostonsciencemuseum #unschooling #unschoolingrocks #opticalillusion #opticalillusions #physics"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 14:07:10 EST 2016",
+                "id": "116321938721705_192166457803919",
+                "message": "Another great creation from Balan Paul!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 14:06:06 EST 2016",
+                "id": "116321938721705_192166104470621",
+                "message": "Cool and unexpected physics demo - must see!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 14:05:03 EST 2016",
+                "id": "116321938721705_192165674470664",
+                "message": "Cool video from Paul Lee about finding the slope of a line...."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 14:02:30 EST 2016",
+                "id": "116321938721705_192165194470712",
+                "message": "Great video from trysit for our January video contest!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 13:54:47 EST 2016",
+                "id": "116321938721705_192157874471444",
+                "message": "Sick oil paintings are the Boston Museum of Fine Art. #selfdirectedlearning #unschooling #unschool #oilpainting #art #museumoffinearts"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 07 11:35:18 EST 2016",
+                "id": "116321938721705_191038577916707",
+                "message": "Announcing our first Student Video Contest of the year at Open Source High.  Tons of prizes including CASH. For more details and to enter visit OpenSourceHigh.com        #videocontest #opensourcehigh #edtech #education #highschool #selfdirectedlearning #learning #peerunschooling #learning #youtube #youtuber #youtubers #edreform #digped #edpolicy #school #schoolchoice #unschool #unschooling #unschoolers #disted #k12online #educationalvideos #homeschool #homeschooling #homeschoollife #flatclass #homeschoolers #filmcontest #flantascience #wtfisx"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 06 11:30:59 EST 2016",
+                "id": "116321938721705_190500374637194",
+                "message": "Announcing our January student video contest!\n\nTONS OF PRIZES - including CASH!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 06 11:30:10 EST 2016",
+                "id": "116321938721705_190499824637249",
+                "message": "Announcing our January student video contest!!\n\nTons of prizes, including CASH!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 06 11:29:26 EST 2016",
+                "id": "116321938721705_190499324637299",
+                "message": "Winners announced from our December student video contest!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 01 17:15:30 EST 2016",
+                "id": "116321938721705_188059241547974",
+                "message": "Prepping for this months student video contest announcement!!  OpenSourdeHigh.com. #videocontest #opensourcehigh #edtech #education #highschool #selfdirectedlearning #learning #peerunschooling #learning #youtube #youtuber #youtubers #edreform #digped #edpolicy #school #schoolchoice #unschool #unschooling #unschoolers #disted #k12online #educationalvideos #homeschool #homeschooling #homeschoollife #flatclass #homeschoolers #filmcontest #flantascience #wtfisx"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 27 11:13:26 EST 2015",
+                "id": "116321938721705_185311801822718"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Dec 26 19:19:37 EST 2015",
+                "id": "116321938721705_184702911883607"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 23 14:38:23 EST 2015",
+                "id": "116321938721705_182932085394023",
+                "message": "Learning my ass off at the Chicago Museum of Science and History.\n#unschooling #homeschool #honeschooling #opensourcehigh #peerschool #peerunschoolijg #museumofscienceandindustry #learning #selfdirectedlearning"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 23 12:30:50 EST 2015",
+                "id": "116321938721705_182869415400290",
+                "message": "Voting is now underway for our December student video contest!  Come see all the amazing creations from our students."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 17 21:19:44 EST 2015",
+                "id": "116321938721705_179414632412435",
+                "message": "Why am I the only one on my feed posting they're at the Star Wars premiere... #starwars #iamajedi #jedi  #jedimindtricks #jedimindtrick"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 13 12:17:07 EST 2015",
+                "id": "116321938721705_176866739333891",
+                "message": "Figured out how to work the espresso machine without formal schooling.  #unschooling success.  #unschoolers #unschoolteens #homeschool #homeschooling"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 09 17:43:06 EST 2015",
+                "id": "116321938721705_175027092851189",
+                "message": "Presenting Open Source High tonight at Pitch Night at Valley Venture Mentors... Next stop: world domination"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 06 11:21:26 EST 2015",
+                "id": "116321938721705_173594892994409",
+                "message": "Announcing our December student video contest!\n\n- $100 cash prize to the top 3 videos (Math, History, Science)\n- Deadline: Dec 20 at midnight\n- Time limit: 2 minutes maximum\n\nFor more details and to enter, visit OpenSourceHigh.com"
+            }
+        ]
+    },
+    {
+        "id": "168447966574816",
+        "name": "Open Source Education",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 23 06:37:24 EST 2016",
+                "id": "168447966574816_935019876584284",
+                "message": "http://opensourceeducation.net/urdu-cbt-embracing-linux-fedora-006-basic-system-usage-part-47/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 25 12:47:43 EST 2015",
+                "id": "168447966574816_906457572773848",
+                "message": "http://opensourceeducation.net/how-to-install-ffmpeg-on-ubuntu/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Nov 21 07:00:17 EST 2015",
+                "id": "168447966574816_904740199612252",
+                "message": "http://opensourceeducation.net/clip-bucket-2-8-on-ubuntu-14-04-with-nginx-php5-fpm-on-digitalocean-vps/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 13 13:09:42 EST 2015",
+                "id": "168447966574816_901684046584534",
+                "message": "http://opensourceeducation.net/clip-bucket-open-source-video-hosting-solution-by-pakistani-it-experts/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Oct 30 05:55:18 EDT 2015",
+                "id": "168447966574816_895987153820890",
+                "message": "http://opensourceeducation.net/how-to-use-systemctl-to-manage-systemd-services-and-units/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Oct 14 06:54:53 EDT 2015",
+                "id": "168447966574816_889830694436536",
+                "message": "http://opensourceeducation.net/mypaint-for-linux-to-create-images-from-scratch/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 23 16:07:37 EDT 2015",
+                "id": "168447966574816_881377585281847",
+                "message": "#OSSP15"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 23 16:07:12 EDT 2015",
+                "id": "168447966574816_881377491948523",
+                "message": "#OSSP15"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 10 06:34:03 EDT 2015",
+                "id": "168447966574816_874969959255943"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Aug 11 06:34:44 EDT 2015",
+                "id": "168447966574816_861066300646309"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jul 14 14:56:27 EDT 2015",
+                "id": "168447966574816_848676348551971",
+                "message": "http://opensourceeducation.net/how-to-get-systems-administrators-and-developers-to-agree-with-docker-opensource-com/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jul 08 15:31:25 EDT 2015",
+                "id": "168447966574816_845124922240447",
+                "message": "http://opensourceeducation.net/how-to-change-url-in-your-wordpress-site-using-shell-on-linux-server/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jul 08 15:30:38 EDT 2015",
+                "id": "168447966574816_845124768907129",
+                "message": "http://opensourceeducation.net/updating-nginx-1-4-6-to-1-8-x-on-ubuntu-14-04-and-fixing-limit_zone-errors/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jul 08 15:30:02 EDT 2015",
+                "id": "168447966574816_845124692240470",
+                "message": "http://opensourceeducation.net/configuration-of-lamp-server-for-launching-of-prestashop-open-source-e-commerce-online-shop-urdu-cbt/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jun 19 12:09:46 EDT 2015",
+                "id": "168447966574816_835944319825174"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 17 15:27:33 EDT 2015",
+                "id": "168447966574816_819620931457513",
+                "message": "http://opensourceeducation.net/english-cbt-virtualization-xen-20-live-migration-22/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 15 02:39:31 EDT 2015",
+                "id": "168447966574816_818638401555766",
+                "message": "http://opensourceeducation.net/configuration-of-lamp-server-for-launching-of-prestashop-open-source-e-commerce-online-shop-urdu-cbt/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 14 07:42:54 EDT 2015",
+                "id": "168447966574816_818349381584668",
+                "message": "http://opensourceeducation.net/open-source-os-meant-for-privacy-for-anyone-anywhere-tails-based-on-debian-gnulinux-free-software/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu May 14 07:42:32 EDT 2015",
+                "id": "168447966574816_818349314918008",
+                "message": "http://opensourceeducation.net/use-the-emacs-editor-in-linux/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon May 11 15:25:36 EDT 2015",
+                "id": "168447966574816_817355728350700"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon May 11 15:24:47 EDT 2015",
+                "id": "168447966574816_817355581684048"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 10 07:07:24 EDT 2015",
+                "id": "168447966574816_816812305071709"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 10 05:15:53 EDT 2015",
+                "id": "168447966574816_816788015074138",
+                "message": "http://opensourceeducation.net/how-to-crawl-hidden-friends-on-facebook-fake-app/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 03 06:26:39 EDT 2015",
+                "id": "168447966574816_814312705321669"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat May 02 01:12:38 EDT 2015",
+                "id": "168447966574816_813899065363033"
+            }
+        ]
+    },
+    {
+        "id": "80292283545",
+        "name": "Open Source Developers Club Malaysia",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 13 20:04:18 EST 2015",
+                "id": "80292283545_10153341171678546",
+                "message": "Kelas Persediaan LPIC Linux Professional Institute Certification di UNITI Open Source Institute"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 23 18:14:37 EST 2015",
+                "id": "80292283545_10153308051808546",
+                "message": "Assalamualaikum dan salam sejahtera,\n\nHanya sesi petang sahaja yang masih tinggal bagi Malaysia Open Source Community Meetup Q4 2015. Bagi yang berminat dengan perkembangan Open Source Community boleh tuju dan sertai kami di\n\nhttps://www.eventbrite.sg/e/malaysia-open-source-community-meetup-quarter-4-2015-moscmy-q4-2015-tickets-19233519976\n\nAcara ini dengan adalah dengan kerjasama Microsoft Malaysia dan sokongan Multimedia Development Corporation (MDeC).\n\nSekian, terima kasih.\n\nHarisfazillah Jamel"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Nov 15 06:31:50 EST 2015",
+                "id": "80292283545_10153295108248546",
+                "message": "Malaysia Open Source Community Meetup Quarter 4 2015\n\nPlease register here\n\nhttp://www.eventbrite.sg/o/linuxmalaysia-6452957707\n\nor\n\nhttps://www.eventbrite.sg/e/malaysia-open-source-community-meetup-quarter-4-2015-moscmy-q4-2015-tickets-19233519976\n\nTheme : \"Day In The Cloud\"\n\nMicrosoft Malaysia Sdn Bhd in collaboration with Malaysia Open Source Community (MOSCMY) presents \u201cDAY IN THE CLOUD\u201d Supported by MDeC."
+            },
+            {
+                "comments": [{
+                    "createdTime": "Sat Aug 01 17:08:37 EDT 2015",
+                    "id": "10153094470298546_10153099639133546",
+                    "message": "Nk dtg tgk bolehhh??"
+                }],
+                "createdTime": "Wed Jul 29 18:44:33 EDT 2015",
+                "id": "80292283545_10153094470298546",
+                "message": "Open Data Hackathon 2015 - http://data.gov.my/hackathon/\n\nHADIAH PERTANDINGAN\nPertama : RM5,000.00\nKedua : RM3,000.00\nKetiga : RM1,000.00\nSaguhati Penyertaan\n\nMaklumat lanjut http://data.gov.my/hackathon/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jul 19 22:39:51 EDT 2015",
+                "id": "80292283545_10153075500078546",
+                "message": "Joomla Day Kuala Lumpur, Malaysia 2015. Visit http://2015.joomla.org.my for registration and more info. Joomla Malaysia http://www.joomla.my \n\nHeld annually by the Joomla Communities in several countries including in Malaysia since 2007. JoomlaDay™ events are officially recognized, but not organized, by the Joomla! Project and Open Source Matters, Inc."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jun 29 18:40:40 EDT 2015",
+                "id": "80292283545_10153028404223546"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed May 20 22:39:39 EDT 2015",
+                "id": "80292283545_10152931378028546",
+                "message": "JoomlaDay Malaysia 2015 will be happening on Saturday, Aug. 15, 2015, providing a full day of Joomla! discussion, panels and presentations. Join us at this showcase for Joomla \u2014 one of the web's leading content management systems \u2014 to learn about Joomla, upskill your Joomla knowledge and connect with fellow Joomla enthusiasts, professionals and the Joomla! team.\nhttp://2015.joomla.org.my #osdcmy"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Mar 07 20:03:54 EST 2015",
+                "id": "80292283545_10152780393173546",
+                "message": "JoomlaDay™ Malaysia 2015 - Panggilan Sukarelawan\n\n\nJoomlaDay Malaysia 2015 dirancang untuk diadakan pada tahun ini. Sehubungan dengan itu, aktivis sumber terbuka yang terlibat dengan Joomla dijemput untuk menyertai kumpulan kerja JoomlaDay.\n\n\nMesyuarat pertama telah berlangsung pada minggu ini dan mesyuarat berikutnya akan berlangsung pada hari Khamis minggu depan.\n\n\nAktivis sukarelawan yang berminat, boleh hubungi penyelaras JoomlaDay; Sam Suresh, Shaiffulnizam atau Tajul Azhar melalui Group Facebook berikut:\n\n\nhttps://www.facebook.com/groups/joomlacm/\n\n\nDipetik daripada :-\n\n\nhttp://www.joomla.org.my/index.php/blog/45-joomladay-malaysia-2015-panggilan-sukarelawan"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Sun May 17 06:43:37 EDT 2015",
+                    "id": "625569890912945",
+                    "message": "Meet Malaysian's wealthy sugar mummy's and daddy's,partners from all walks of life all around Malaysia who are ready to pay\nRM4000 for a wonderful night and a lot more benefits.This is the best, reliable dating agency and legitimate hookup in Asia.\nWe have a wonderful influential network of MUMMY/DADDY/LESBIANS/GAY/ ranging from government officials, politicians,\nexecutive, money bag business personality, hotel owners and gold men and women, and we have influential sugar mummies,be\namong the people to get our exclusive connections. get the opportunity to meet them. We have sugar mummies all over\nMalaysia who are willing to lavish money on you, and influence your live financially in making your dreams and desires come\ntrue.(whatsapp 014-645-6142) to get connected with your partner now!!\nNOTE:APPLICANT MUST BE ABOVE 17YRS OLD\nMUMMY AGE 32-50.\n(whatsapp PM 014-645-6142) for urgent hook up with a partner"
+                }],
+                "createdTime": "Wed Feb 25 11:11:01 EST 2015",
+                "id": "80292283545_589450067858261"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 18 12:22:54 EST 2015",
+                "id": "80292283545_10152745944813546",
+                "message": "The Linux Foundation Releases Linux Development Report\n\nKey findings from this year\u2019s paper include:\n\nNearly 12,000 developers from more than 1,200 companies have contributed to the Linux kernel since tracking began 10 years ago. Just since the last report, more than 4,000 developers from 200 companies have contributed to the kernel, half of whom contributed for the first time.\n\nThe Top 10 organizations sponsoring Linux kernel development since the last report include Intel, Red Hat, Linaro, Samsung, IBM, SUSE, Texas Instruments, Vision Engraving Systems, Google and Renesas.\n\nIt\u2019s worth noting that the FOSS Outreach Program for Women ranks #13 for contributions to the Linux kernel during this last cycle with the interns contributing 1.5 percent of the patches to Linux kernel 3.11. \n\nThe complete top 20 contributing organizations can be seen in the full report.\n\nThe rate of Linux development is unmatched; in fact, Linux kernel 3.15 was the busiest development cycle in the kernel\u2019s history. This rate of change continues to increase, as does the number of developers and companies involved in the process.\n\nThe average number of changes accepted into the kernel per hour is 7.71, which translates to 185 changes every day and nearly 1,300 per week. The average days of development per release decreased from 70 days to 66 days.\n\nThe number of paid developers is on the rise, as companies aggressively recruit top Linux talent. More than 80 percent of kernel development is done by developers who are being paid for their work. Volunteer developers tend not to stay that way for long.\n\nhttp://www.linuxfoundation.org/news-media/announcements/2015/02/linux-foundation-releases-linux-development-report"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 14 20:48:22 EST 2015",
+                "id": "80292283545_843676192365612"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 30 04:09:52 EST 2015",
+                "id": "80292283545_10152702866133546",
+                "message": "Malaysia Open Source Community Meetup Q1 2015\n\nThe Malaysia Open Source Community Meet-up is an event for Open Source Communities in Malaysia to meet with each others. It's an event for software developers, students, and other interested people to learn more about open source software.\n\nThis event is a makan-makan and borak-borak with friends.\n\nTheme: Birds of Feather, we flock together.\n\nThis Meetup is a BoF style Meetup, no pre-planned agenda.\n\nKita datang, makan dan berbual tentang kita sebagai Open Source Community Malaysia.\n\nWant to be a speaker? Open Source Software related topic? Please contact linuxmalaysia@gmail.com or Telegram +60196085482\n\nHashTag\n\n#q1moscmy2015\n\nOfficial web page for this event and registration. Please register for us to keep track whose attending.\n\nhttp://lanyrd.com/2015/q1moscmy2015\n\nEventbrite Register Page\n\nhttp://q1moscmy2015.eventbrite.sg\n\nhttp://www.eventbrite.sg/e/malaysia-open-source-community-meetup-q1-2015-tickets-15530578378\n\nRegards\n\nHarisfazillah Jamel\n\nlinuxmalaysia@gmail.com\n\nFacebook event page\n\nhttps://www.facebook.com/events/770072713069578"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 26 03:37:39 EST 2014",
+                "id": "80292283545_10152611665548546",
+                "message": "Rebuild MOSCMY Website: Hi all,\n\nWe are rebuilding the MOSCMY website.\n\nRegards\n\nHaris http://t.co/ulAfob9lRr"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 10 01:30:39 EST 2014",
+                "id": "80292283545_10152518011288546",
+                "message": "Server Upgrade: We are upgrading our server. For more information please email to harisfazillah@mosc.my\n http://t.co/5DdZ1onT3v"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 21 07:33:18 EDT 2014",
+                "id": "80292283545_10152413859843546",
+                "message": "My Mobile Application Development Contest (MyMAD 2014) Prizes: \n\nThe prizes for MyMAD Contest.\n\nA) Grand Pr... http://t.co/9VKNJUqXBt"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 18 10:27:09 EDT 2014",
+                "id": "80292283545_10152408923973546",
+                "message": "Malaysia Open Source Conference 2014 Backdrop. http://www.mosc.my/"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Thu Sep 25 08:40:34 EDT 2014",
+                    "id": "10152404721123546_10152421947728546",
+                    "message": "Salam.. blh booking lg ker baju. ."
+                }],
+                "createdTime": "Tue Sep 16 00:49:31 EDT 2014",
+                "id": "80292283545_10152404721123546",
+                "message": "Anyone interested in buying T -shirts Malaysia Open Source Conference 2014 ( MOSCMY2014 ) online can make reservations now. Tee price is RM30 excluding postage costs. https://www.facebook.com/moscmy/app_410312912374011\n\nTee type Gildan Heavy Blend Sweatshirt. 50% cotton, 50% polyester."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 15 02:19:40 EDT 2014",
+                "id": "80292283545_10152403005118546",
+                "message": "Free Access for MOSCMY2014 Exhibition Hall Visitors.\n\nGain free access to Exhibition Hall at level 14 Menara SSM@Sentral for 2 days by register using this link. You can visit MOSCMY sponsors booth like Microsoft, Oracle, Astiostech and Suse.\n\nYou may have opportunity to meet with speakers such as from PayPal + brainTree, Microsoft, IBM and 3D Printer demo. 14th floor Menara SSM@Sentral. Click here to register https://moscmy2014.eventbrite.sg/?discount=53051LINUXMALAYSIA"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 14 04:11:47 EDT 2014",
+                "id": "80292283545_10152401059823546",
+                "message": "Malaysia Open Source Conference 2014 10 hari lagi. Kiraan bermula. Rakan-rakan komuniti sila Email saya linuxmalaysia@gmail.com untuk kehadiran. Laman web http://www.mosc.my #moscmy"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 09 12:18:39 EDT 2014",
+                "id": "80292283545_10152392454153546",
+                "message": "Propose T-Shirt Design For MOSCMY2014: Propose T-Shirt Design For MOSCMY2014, this is still in design stage an... http://t.co/MXLWd3Il32"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 09 12:02:25 EDT 2014",
+                "id": "80292283545_10152392374108546",
+                "message": "Propose T-Shirt Design For MOSCMY2014, this is still in design stage and for review by MOSCMY secretariat and sponsors. Please comment at http://www.mosc.my/moscmy2014-tshirt design by APOGEEK Creative Solutions."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 09 10:08:10 EDT 2014",
+                "id": "80292283545_10152391576078546",
+                "message": "The Internet of Things (IoT): The Internet of Things (IoT) refers to the interconnection of uniquely identifia... http://t.co/dUYzaQGPUU"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 08 18:35:04 EDT 2014",
+                "id": "80292283545_10152390556578546",
+                "message": "Workshop 2 3D Printer Basic Setup: MOSCMY 2014 Workshop 2\n\n3D Printer Basic Setup\n\n3D printing or additive man... http://t.co/v2MSnqIQ0l"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 08 13:42:49 EDT 2014",
+                "id": "80292283545_10152390049323546",
+                "message": "MOSCMY 2014 Workshop 1\n\nWays that IoT can be integrated into existing well established platforms (integrating with platforms like Wordpress, Joomla, Magento).\n\nSteven Cooper - PayPal\n\nAuditorium Tun Dr. Siti Hasmah\n\nhttp://www.mosc.my/moscmy-paypal\n\nhttp://lanyrd.com/2014/moscmy2014/sczgqx/\n\nThursday 25th September, 2014\n\n11:00am to 1:00pm"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Sep 04 19:59:50 EDT 2014",
+                "id": "80292283545_10152383417723546",
+                "message": "Linux Professional Institute (LPI) Exam Slot:  \n\nLinux Professional Institute (LPI) Exam Slot is for anyone, w... http://t.co/kBTRNWVDxW"
+            }
+        ]
+    },
+    {
+        "id": "119888481391114",
+        "name": "Open Source Physics"
+    },
+    {
+        "id": "138456489516956",
+        "name": "List of open-source video games"
+    },
+    {
+        "id": "168371106612607",
+        "name": "Open Source Bookstore",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 07 14:58:32 EST 2013",
+                "id": "168371106612607_191374351006487"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 03 07:00:00 EST 2013",
+                "id": "168371106612607_320100601439656",
+                "message": "Բարի գրախանութ"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Oct 03 10:32:58 EDT 2012",
+                "id": "168371106612607_115508381935433"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Aug 12 04:09:50 EDT 2012",
+                "id": "168371106612607_349058018507310"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jul 01 03:41:40 EDT 2012",
+                "id": "168371106612607_324248834328834"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Apr 30 13:56:30 EDT 2012",
+                "id": "168371106612607_289085954510307"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Mar 25 18:23:51 EDT 2012",
+                "id": "168371106612607_199396766837556"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Mar 21 19:15:10 EDT 2012",
+                "id": "168371106612607_183043518478699"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Mar 13 03:09:57 EDT 2012",
+                "id": "168371106612607_182545538524218"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Mar 03 02:28:50 EST 2012",
+                "id": "168371106612607_124378911022329",
+                "message": "Ժամանակակից գրողը պարզաբանում է, թե ինչու այսօր մեծեր չկան իրենց շարքերում: «Չի կարող լիենել մեծերի շարունակությունը, քանի որ սկզբունքայնորեն փոխվել է գրականության հարցը: Մեծ հեղինկությունների հարց առաջանում է, երբ հասարակությունը նրանց առջև պատմականորեն ու քաղաքականորեն հարցեր է դնում»,- ասաց նա և պարզաբանեց, որ օրինակ Աբովյանը ազգի ձևավորման հարցում իր առաջ խնդիր էր դրել հասկանալի լեզվով գրել, Րաֆֆուն ազգապահպանաման խնդրի էր հուզում և այլն: Իսկ այսօր ըստ նրա , քանի որ նման խնդիրներ չկան, կա պետականություն, բացի այդ «մասնագետ փրկիչներն էլ այսօր շատացել են», ուստի իրենց մնում է բուն գրականությամբ զբաղվել, իսկ ընթերցողն էլ արդեն կարդում է բուն գրականոթյունը:"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Mar 02 15:12:36 EST 2012",
+                "id": "168371106612607_231306046965922"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Mar 01 02:30:31 EST 2012",
+                "id": "168371106612607_170023013114083",
+                "message": "2008, Yerevan, © Ruth Baettig"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Wed Feb 29 19:49:44 EST 2012",
+                    "id": "169852873131097_449179",
+                    "message": "Հովհաննես Իշխանյանի Ուվալնյատի օրը 2 օրինակով էր, 2-ն էլ տարան: Ունենք նաև Նիցշե, Բեկետ, Սյորան, Գրակք, Պինժե, Մարկես, Սելինջեր և այլն:  Վաղը սպասվում է նոր գրքացանկ, այնպես որ, եկե՛ք Գլխավոր պողոտայի (Մաշտոցի) պուրակ ամեն օր՝ ժամը 1-6-ը, գիրք ստանալու և նվիրելու:"
+                }],
+                "createdTime": "Wed Feb 29 19:45:41 EST 2012",
+                "id": "168371106612607_169852873131097",
+                "message": "Մեր գրքացանկը՝\n\n1.Երևանյան Ուտոպիական հանդիպումներ. ի նպաստ գոյատևման քննադատության\n(հոդվածների ժողովածու)\nMētis Presses, 2005\nGenève\n2. Մարմնի միջավայրը\n(խմբագիրներ՝ Աննա Բարսեղյան, Նազարեթ Կարոյան, Ստեֆան Քրիստենսեն)\nMētis Presses, 2007\nGenève\n3. Մատնաշունչ\n(գրական ժողովածու)\nMētis Presses, 2007\nGenève\n4. Հուշեր և արձագանքներ\nՎաղարշակ Նորենց\nՀայաստան հրատ., 1968\nԵրևան\n5. սալաթ կրակոցներով\nՄարինե Պետրոսյան\n(բանաստեղծությունների ժողովածու)\nակտուալ արվեստ մշակութային միություն, 2011\nԵրևան\n6. Հաշվեհարդար. հալածանք և դիմադրություն\nՎահան Իշխանյան և Ավետիս Բաբաջանյան\nԱզատ խոսքի կենտրոն, 2004\nԵրևան\n7. Հայ ռեվոլյուցիոն կանայք\nՌոզա Փաշինյան\nՀայաստանի պետական հրատարակչություն, 1963 \nԵրևան\n8. Դավիթ Բեկի պատմությունը\nՂուկաս Սեբաստացի\nԱրևիկ, 1988\nԵրևան\n9. Վերամուտ \nԱրթուր Անդրանիկեան\n(բանաստեղծությունների ժողովածու)\nԵրևան, 2006\n10. Ալբանիայի հայերը և հայ-ալբանական առնչությունները\nԱրծվի Բախչինյան\n11. Այստեղ, այնտեղ\nՄերի Մ. Կանդալյան-Ասլանդյան\n(պատմվածքների ժողովածու)\nհայերեն և անգլերեն\nԵրևան, 2007\n12. Անվերջ վերադարձ. Հայաստանի ճանապարհները \n(1989-2004)\nՎարդան Մատթէոսեան\n(արևմտահայերեն)\nԵրևան, 2005\n13. Քաջասիրտ հայուհիները \nՀայպետհրատ, 1945\nԵրևան"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 29 01:15:06 EST 2012",
+                "id": "168371106612607_228475773915993",
+                "message": "https://www.facebook.com/BookCrossingArmenia?sk=app_57675755167"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 29 01:14:31 EST 2012",
+                "id": "168371106612607_384615358216516",
+                "message": "http://www.bookcrossing.com/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 28 14:58:24 EST 2012",
+                "id": "168371106612607_380667311943299"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 28 14:16:40 EST 2012",
+                "id": "168371106612607_359876444044472",
+                "message": "Այսօրվա խմբային ընթերցում-քննարկման տեքստը"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 28 12:59:04 EST 2012",
+                "id": "168371106612607_169021356547582",
+                "message": "The opening day of Open Source Bookstore at Main Avenue (Mashtots) Park and the public reading and discussion of Geneviève Azam's \"The Body needs and their commodification: the demand of being free/at no cost as a necessity to present it as 'priceless'\"."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 27 16:43:19 EST 2012",
+                "id": "168371106612607_168492836600434",
+                "message": "Public reading and discussion of Geneviève Azam's \"The Body needs and their commodification: the demand of being free/at no cost as a necessity to present it as 'priceless'\". Tomorrow @ Main Avenue (Mashtots) Park, at 5.00 pm\n\nhttps://www.facebook.com/events/307445835983666/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 27 13:55:11 EST 2012",
+                "id": "168371106612607_353647651324399",
+                "message": "https://www.facebook.com/newsfromnowherebookshop"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 27 13:21:07 EST 2012",
+                "id": "168371106612607_168377556611962",
+                "message": "Հաշվի առնելով 2011թ. դեկտեմբերին ընդունված «Ավելացած արժեքի մասին ՀՀ օրենքում փոփոխություններ և լրացումներ կատարելու մասին» օրենքը», ըստ որի՝ գրքի գնի մեջ մտցվում է ավելացած արժեքի հարկ, որի արդյունքում տպագիր հրատակությունների գները կրկնակի թանկանում են, ինչի հետևանքով հայաստանցի ընթերցողը 2012-ի Գրքի մայրաքաղաքում փաստացիորեն մեծամասնորեն զրկվում է տպագիր հրատարակություն ձեռք բերելու հնարավորությունից, նախաձեռնում ենք նոր՝ «Բաց կոդի գրախանութ» Հայաստանում: «Գրախանութ» և ոչ թե՝ «գրադարան» բառի ընտրությունը նույնպես համարում ենք դիպուկ, քանի որ ստեղծված իրավիճակում դրամական արժեքի փոխանակության մոդելով աշխատող «գրախանութ» Հայաստանում գոյատևել չի կարող, ուստի առաջարկում ենք դիմել գրքերի ազատ բաշխման մոդելին: \n\nԱրտադրության և ծրագրավորման մեջ «բաց (ազատ) կոդը» փիլիսոփայություն կամ պրագմատիկ մեթոդաբանություն է, որով խրախուսվում է վերջնական ապրանքի դիզայնի և իրագործման դետալների ազատ բաշխումն ու հասանելիությունը: \n«Բաց (ազատ) կոդը» մեծ տարածում ձեռք բերեց ինտերնետի զարգացման և համակարգչային սկզբնական կոդի զանգվածային վերագործիքավորման մասնակցային անհրաժեշտության հետ: Սկզբնական կոդը բացելը արտադրության մոդելների, հաղորդակցության ուղիների և ինտերակտիվ համայնքների ինքնակառավարման ընդլայնման իրավունք տվեց: «Բաց (ազատ) կոդով» ծրագրերի շարժումը կյանքի էր կոչվել՝ նկարագրելու այն միջավայրը, որը ստեղծվում էր նոր հեղինակային իրավունքի, լիցենզավորման, տիրույթների և սպառողական խնդիրների շուրջ: \n«Բաց (ազատ) կոդի» մոդելը ներառում է մրցակցող, սակյան տարբեր օրակարգերի և արտադրության տարբեր մոտեցումների գաղափարը՝ ի տարբերություն ծրագրավորման ավելի կենտրոնացած մոդելների, որոնք սովորաբար գործիքավորվում են առևտրային ծրագրերի արտադրությամբ զբաղվող ընկերություններում: «Բաց (ազատ) կոդով» ծրագրերի զարգացման հիմնական սկզբունքն ու պրակտիկան բարտերի և համագործակցության միջոցով գործընկերային արտադրությունն է, երբ վերջնական ապրանքը, սկզբնական նյութը, «սևագրերը»/նախնական տարբերակները/նախագծերը և փաստագրությունն անվճար հասանելի են հանրությանը: \n\nՈւստի առաջարկում ենք ստեղծել հանրային գրախանութ, որտեղ տպագիր հրատարակություններն անվճար կբաշխվեն մարդկանց: \nԳրքերի և տպագրությունների առաջին բաժինը վաղը կտեղադրվի Գլխավոր պողոտայի (Մաշտոցի) պուրակում` «Բաց (ազատ) կոդի գրախանութ» պաստառազարդ արկղի մեջ: \nՅուրաքանչյուրի մասնակցությունը մեծապես խրախուսվում է, ուստի կարող եք ոչ միայն գիրք վերցնել, այլ նաև հատուցել գրախանութին՝ սեփական գրադարանից որևէ հետաքրքիր գիրք նվիրելով վերջինիս: «Բաց (ազատ) կոդի գրախանութին» կից կգործի «Բաց կոդի գրադարան» նախաձեռնությունը, որտեղ յուրաքանչյուր օր կկազմակերպվեն որևէ հոդվածի, ակնարկի կամ այլ ժանրի գրավոր երկի խմբային ընթերցումներ և քննարկումներ:"
+            }
+        ]
+    },
+    {
+        "id": "304001399800430",
+        "name": "Open Source and Security",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Mon May 18 21:53:51 EDT 2015",
+                "id": "304001399800430_357530064447563",
+                "message": "https://alexsanderoliveira.wordpress.com/2015/05/19/correcao-do-erro-keyexpired-1425567400-na-atualizacao-do-kali-linux/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 25 10:23:59 EST 2014",
+                "id": "304001399800430_307212319479338",
+                "message": "https://alexsanderoliveira.wordpress.com/2014/12/25/feliz-natal/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 19 06:04:08 EST 2014",
+                "id": "304001399800430_304726876394549",
+                "message": "https://alexsanderoliveira.wordpress.com/2014/12/19/aprendendo-a-utilizar-o-editor-de-texto-vim-vi-melhorado/?preview=true&preview_id=20"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 18 13:52:44 EST 2014",
+                "id": "304001399800430_304563073077596"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 18 13:41:08 EST 2014",
+                "id": "304001399800430_304560906411146",
+                "message": "https://alexsanderoliveira.wordpress.com/2014/12/18/teste-de-intrusao-a-forca-bruta-para-descobrir-senhas-wi-fi-no-protocolo-wep-detalhado/#comments"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Dec 16 20:15:48 EST 2014",
+                "id": "304001399800430_304002889800281"
+            }
+        ]
+    },
+    {
+        "id": "227932893889730",
+        "name": "OpenSource Cafe, Shimokitazawa",
+        "posts": [
+            {
+                "comments": [
+                    {
+                        "createdTime": "Sat Oct 20 05:19:50 EDT 2012",
+                        "id": "366483863439597_2390093",
+                        "message": "I've heard that Facebook has started the international Fb page integration. So I'll try that later ;-)"
+                    },
+                    {
+                        "createdTime": "Thu Dec 03 19:10:50 EST 2015",
+                        "id": "366483863439597_955804424507535",
+                        "message": "超级MMM太给力了，完成任务有100%收益，给了我进步和发展，带给了我们翻身做主的机会，感谢马夫罗先生。欢迎加入我们一起改变世界! #MMMExtra #Community #Job"
+                    },
+                    {
+                        "createdTime": "Thu Dec 03 21:58:19 EST 2015",
+                        "id": "366483863439597_955841457837165",
+                        "message": "Thanks to the MMM EXTRA program i love mmm all ppl join me!  #MMMExtra #Community #Job"
+                    },
+                    {
+                        "createdTime": "Sat Dec 05 06:25:33 EST 2015",
+                        "id": "366483863439597_956422077779103",
+                        "message": "Thanks to the MMM EXTRA program i love mmm all ppl join me! #MMMExtra #Community #Job"
+                    },
+                    {
+                        "createdTime": "Tue Dec 29 06:10:14 EST 2015",
+                        "id": "366483863439597_968281523259825",
+                        "message": "thanks to the mmm extra program i love mmm all ppl join me!#MMMExtra #Community #Job"
+                    }
+                ],
+                "createdTime": "Sat Oct 20 05:18:05 EDT 2012",
+                "id": "227932893889730_366483863439597",
+                "message": "We've opened OSSCafe Fb page in English for convenience :-) \n\nFb page in Japanese is mainly updated, so also visit it.\nhttps://www.facebook.com/shimokitazawa.osscafe"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Thu Dec 03 21:57:09 EST 2015",
+                    "id": "543542668995416_1241872159162460",
+                    "message": "Thanks to the MMM EXTRA program i love mmm all ppl join me!"
+                }],
+                "createdTime": "Sat Oct 20 05:06:51 EDT 2012",
+                "id": "227932893889730_543542675662082"
+            }
+        ]
+    },
+    {
+        "id": "156275314400143",
+        "name": "Open Source Policing",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 17:57:50 EST 2016",
+                "id": "156275314400143_1214334365260894",
+                "message": "Retweeted Seaofchangefilm (@Seaofchangefilm):\n\n@OSPolicing @effgov also legal challenges on going as schemes disable disabled people in UK https://t.co/55DouP6EjP"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 17:56:28 EST 2016",
+                "id": "156275314400143_1214333985260932",
+                "message": "Retweeted DRUDGE REPORT (@DRUDGE_REPORT):\n\nTWITTER announces 'trust and safety' panel to police content... https://t.co/YJ3WTV5lVf"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 16:14:17 EST 2016",
+                "id": "156275314400143_1214285465265784",
+                "message": "Shared Space Road Design Proves Controversial, But Fed Embraces https://t.co/zGO8145eRO via @effgov"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 15:10:49 EST 2016",
+                "id": "156275314400143_1214263841934613",
+                "message": "Cloud Storage for Camera Data? https://t.co/NOL4cAv21O"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 12:42:59 EST 2016",
+                "id": "156275314400143_1214195131941484",
+                "message": "Retweeted N.A.O.R.C.A. (@ORC2011):\n\nHacker Leaks Thousands Of FBI, DHS Employee Names and Sensitive Contact Details Through Cryptobin https://t.co/xYWvruY8G0"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 00:57:31 EST 2016",
+                "id": "156275314400143_1213907185303612",
+                "message": "Retweeted capblack (nadraenzi) (@nadraenzi):\n\nThank you! Our lack of mutual mobilization is too costly-in lives & tax dollars-to continue! https://t.co/G54i5Z0rmq"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 09 00:56:42 EST 2016",
+                "id": "156275314400143_1213906945303636",
+                "message": "Retweeted Nordic Geospatial (@nordicgeo):\n\nFYI tomorrow / Tues - #DataDriven #publicsafety & #opengov @socrata @CADeptTech @InfraGard @napsgfoundation #LE #HLS https://t.co/uHDTjcBUVp"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 23:11:02 EST 2016",
+                "id": "156275314400143_1213869691974028",
+                "message": "Study finds APD lapel camera policy is confusing https://t.co/WqQB6hY59h #abq via @abqjournal"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 22:14:42 EST 2016",
+                "id": "156275314400143_1213848028642861",
+                "message": "Attorney General to Visit 6 Cities to Highlight Police Work https://t.co/O98aDNboUE"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 22:07:14 EST 2016",
+                "id": "156275314400143_1213845798643084",
+                "message": "Interesting \"...an urban auxiliary for law enforcement, patrolling beside sworn officers and serving as mediators..\" https://t.co/3tV9GeCDfe"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 12:39:35 EST 2016",
+                "id": "156275314400143_1213612548666409",
+                "message": "Retweeted Govtech.com (@govtechnews):\n\nFeds launch #socialmedia verification registry https://t.co/c9vd55KeUV https://t.co/U6uic51stH"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 11:22:08 EST 2016",
+                "id": "156275314400143_1213580012002996",
+                "message": "Retweeted HSEM TRAINING (@HSEMTraining):\n\nGoogle will begin showing anti-ISIS ads to counter terrorism https://t.co/zkNUjJgJg6 via @DigitalTrends"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 10:38:49 EST 2016",
+                "id": "156275314400143_1213562335338097",
+                "message": "Retweeted Evan Kirstel (@evankirstel):\n\nThat Time the Super Bowl Secretly Used Facial Recognition Software on Fans  https://t.co/bHhbe7gP0l @OSPolicing https://t.co/vMIgauOwjM"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Feb 08 09:59:25 EST 2016",
+                "id": "156275314400143_1213543005340030",
+                "message": "Retweeted Muz Janoowalla (@StatMan_Who):\n\n#Policing the Future\nhttps://t.co/ZjwRRoE2SS\n#DigiPol\n@PolicingFuture @PredAnalytics @PredictCrime"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Feb 07 11:07:58 EST 2016",
+                "id": "156275314400143_1212899828737681",
+                "message": "Retweeted Evan Kirstel (@evankirstel):\n\nOhio K9 police officer and dog will be allowed to retire together https://t.co/j851tjrVJS @ospolicing"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 06 11:14:10 EST 2016",
+                "id": "156275314400143_1212270232133974",
+                "message": "Retweeted Fast Company (@FastCompany):\n\nFree apps for your business: https://t.co/EocsFh9NKz https://t.co/dtjaEHkT32"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 06 11:07:09 EST 2016",
+                "id": "156275314400143_1212267818800882",
+                "message": "Something shift workers need to be aware of. https://t.co/3FQddV8An1"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 06 11:04:57 EST 2016",
+                "id": "156275314400143_1212267075467623",
+                "message": "Retweeted AP Oddities (@AP_Oddities):\n\nMan suspected of burglarizing several businesses caught in DC after accessing Twitter during a break-in: https://t.co/jkudKLwjhr #odd"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 05 11:29:15 EST 2016",
+                "id": "156275314400143_1211694312191566",
+                "message": "Retweeted Policing News (@PolicingNews):\n\nHelp people understand police use of force by sharing the Police Foundation's infographic:\nhttps://t.co/VMu29mqVTu https://t.co/6fhdqww8aO"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 05 01:33:06 EST 2016",
+                "id": "156275314400143_1211427442218253",
+                "message": "Retweeted Thomas Dworak (@dworakt):\n\nMy latest for Columbia Southern University on Self-directed Learning In Criminal Justice https://t.co/U7a1pi8EcE"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 21:56:13 EST 2016",
+                "id": "156275314400143_1211345172226480",
+                "message": "Retweeted TheGoogleGooru (@TheGoogleGooru):\n\nMake sure Social Security and Credit Card numbers aren't shared on Google Drive with this: https://t.co/Oy7Ho0LYYw https://t.co/LOwc3kkt16"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 21:55:13 EST 2016",
+                "id": "156275314400143_1211344945559836",
+                "message": "Conestoga opens hands-on lab for training emergency responders https://t.co/B9C5gqVgRC via @guelphmercury"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 20:02:36 EST 2016",
+                "id": "156275314400143_1211308975563433",
+                "message": "Retweeted IIHS (@IIHS_autosafety):\n\nRT @nytimes: It's not just nickel bags: Legal marijuana sales hit $5.4 billion in 2015 https://t.co/JEZEhT4NyL"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 20:02:07 EST 2016",
+                "id": "156275314400143_1211308848896779",
+                "message": "Retweeted StateTech Magazine (@StateTech):\n\nPolice hunt for #cloud, #datastorage options for #surveillance https://t.co/8KPwxhIVfX @FitchburgWIPD, @CityofBryan https://t.co/rVxuWl8udd"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 19:40:07 EST 2016",
+                "id": "156275314400143_1211302418897422",
+                "message": "Retweeted Harvard Biz Review (@HarvardBiz):\n\nInnovators, stop using cliches. An original idea deserves original language https://t.co/7W9dAINzcX"
+            }
+        ]
+    },
+    {
+        "id": "108491169175858",
+        "name": "MapGuide Open Source"
+    },
+    {
+        "id": "383293988391089",
+        "name": "OpenSource SAP Resourcing",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Mon Dec 07 02:18:53 EST 2015",
+                "id": "383293988391089_920105258043290",
+                "message": "Happy Birthday OpenSource - the company is 22 years old this month - thank you to all our  clients, candidates and the OpenSource team for making this possible!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Nov 12 09:55:13 EST 2015",
+                "id": "383293988391089_910777835642699",
+                "message": "Teams hard at work!  Major preparations for large contract!!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 04 23:13:33 EST 2015",
+                "id": "383293988391089_907959439257872",
+                "message": "Opensource research team hard at work"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Aug 05 06:19:51 EDT 2015",
+                "id": "383293988391089_869588863094930",
+                "message": "SAP learning Hub - R 30 923 per licence\n\nOpenSource will now be offering the learning hub for R 30 923 per licence.\n\nYou can now certify through the SAP learning hub on a multitude of courses offered. \n\nIf you are interested in finding out more about the SAP learning hub, please email morgan@osourceint.com or you can call OpenSource on 0218554907.\n\nWatch the link below to find out more about the SAP learning hub;\nhttps://www.youtube.com/watch?v=RrDj53BzS4U\nPlease visit our company page\nhttps://www.linkedin.com/company/478583?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1433411450386%2Ctas%3AOpenSource%20SAP%20\nNote; the price above is excl VAT."
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jun 05 08:14:03 EDT 2015",
+                "id": "383293988391089_842536915800125",
+                "message": "Have a look at the SAP YouTube page to keep updated on the latest SAP related news."
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jun 05 07:49:56 EDT 2015",
+                "id": "383293988391089_842530439134106",
+                "message": "Latest SAP short courses offered.  Please find out more about the SAP learning hub offered from OpenSource"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jun 04 06:39:18 EDT 2015",
+                "id": "383293988391089_842037375850079",
+                "message": "Latest SAP Learning hub news! \n\nTo find out more about the special offered from OpenSource, please email morgan@osourceint.com."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jun 03 06:26:11 EDT 2015",
+                "id": "383293988391089_841631365890680",
+                "message": "NEW SAP learning hub information\n\nWatch the link below if you are interested in finding out more about the SAP learning hub.\nPlease contact morgan@osourceint.com if you are interested in purchasing an SAP hub licence."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jun 03 06:21:29 EDT 2015",
+                "id": "383293988391089_841630732557410",
+                "message": "please visit our LinkedIn page to find out more about the SAP learning hub special offer!!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 22 03:22:12 EST 2015",
+                "id": "383293988391089_786406911413126",
+                "message": "find your new SAP career opportunity with the OpenSource group. \nTo contact our company, please visit www.osourceint.com."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 20 03:54:17 EST 2015",
+                "id": "383293988391089_785650248155459",
+                "message": "SAP talks of plans to bring 500 million dollars into Africa till 2020."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 14 05:42:48 EST 2015",
+                "id": "383293988391089_782979371755880",
+                "message": "SAP are now working at bringing people closer to experience the true power of SAP and technology."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 13 07:57:06 EST 2015",
+                "id": "383293988391089_782627108457773",
+                "message": "SAP talking about new ways to simplify a day at work.\nFor more information on our company, please visit www.osourceint.com"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 07 03:34:01 EST 2015",
+                "id": "383293988391089_779991668721317",
+                "message": "An optimistic outlook on life can be enough to change your day. how can an astronaut's outlook on life help shed light on the ideals of optimism?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 06 21:17:45 EST 2015",
+                "id": "383293988391089_779904702063347",
+                "message": "SAP makes big push for china to double their workforce by 2015.\nFor more information on the Opensource group, visit www.osourceint.com."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 06 06:22:33 EST 2015",
+                "id": "383293988391089_779366415450509",
+                "message": "SAP makes bold move for top database provider."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 06 06:12:19 EST 2015",
+                "id": "383293988391089_779363688784115",
+                "message": "SAP sponsors Solheim golf Cup to advertise the power of SAP and sports entertainment."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 05 04:53:37 EST 2015",
+                "id": "383293988391089_778292562224561",
+                "message": "To find out more about our company, please feel free to visit our website."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 05 04:31:29 EST 2015",
+                "id": "383293988391089_778288078891676",
+                "message": "please feel free to link with Opensource to find out more about our company and to keep up with our daily news feed of new interesting articles regarding SAP."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 03 02:59:48 EST 2015",
+                "id": "383293988391089_776856699034814",
+                "message": "Lunch at Dieu Donne welcome to some SAP consultants"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Dec 27 10:44:01 EST 2014",
+                "id": "383293988391089_772629526124198",
+                "message": "Riyadh on business recently - positive outcomes for the New Year!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Oct 21 01:21:36 EDT 2014",
+                "id": "383293988391089_737957259591425",
+                "message": "In Saudi Arabia with some of the OpenSource SAP team"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Aug 15 10:18:33 EDT 2014",
+                "id": "383293988391089_699262643460887",
+                "message": "lots of work - Nigeria and Saudi keeping us very busy.  Some great people to deal with and hoping these projects provide a lot of consultants with work out of SA!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jul 22 04:01:30 EDT 2012",
+                "id": "383293988391089_383833858337102",
+                "message": "Raising money for Underprivelaged Children/NSRI"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jul 22 03:31:12 EDT 2012",
+                "id": "383293988391089_383833858337102",
+                "message": "Walkways to Yachts"
+            }
+        ]
+    },
+    {
+        "id": "227230293957027",
+        "name": "Open Source Christian Community",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 13 21:04:39 EDT 2015",
+                "id": "227230293957027_708113915988122"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 13 18:47:12 EDT 2015",
+                "id": "227230293957027_759010204207742"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 13 17:17:58 EDT 2015",
+                "id": "227230293957027_1161682627178451",
+                "message": "­­#WAKEUP #CHRISTIAN: DO NOT #FOLLOW THE #WORLD! A #POWERFUL #MESSAGE\nhttps://www.youtube.com/watch?v=RsS17INj5QY&list=PLYcXN4at-gEOEJN1jvBY-Y38vZtN02A2Z&index=48"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Sep 05 13:17:38 EDT 2015",
+                "id": "227230293957027_1156561637690550",
+                "message": "The #First #Priority, #Mission, #ActionPlan, #Goal https://youtu.be/RYIguidlUWo"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jul 01 00:11:34 EDT 2015",
+                "id": "227230293957027_684884601617317"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jun 07 23:45:26 EDT 2015",
+                "id": "227230293957027_1102367526443295",
+                "message": "#Atheism #Evolution #Facts #Philosophy #Belief #Book\nhttps://www.youtube.com/watch?v=wQrOJYsvVOk"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Jun 07 23:36:35 EDT 2015",
+                "id": "227230293957027_1102364593110255",
+                "message": "#FastFactsOnFalseTeachings #Book #EdDecker #RonCarlson #PhilosophyOfReligion #SociologyOfReligion #AnthropologyOfReligion #PsychologyOfReligion #Atheism #Buddhism #Evolution #Freemasonry #Hinduism #Islam #JehovahsWitness #Mormonism #NewAge #ProsperityTheology #RomanCatholicism #Satanism #Luciferianism #TranscendentalMeditation #TheUnificationChurch #SunMyungMoon #Yoga #Reincarnation #Occult \nhttps://www.youtube.com/watch?v=_V34rv2z59Y"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jun 02 22:41:54 EDT 2015",
+                "id": "227230293957027_1597557737168893"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 10 15:20:04 EDT 2015",
+                "id": "227230293957027_1085755058104542",
+                "message": "#InsurancePolicy #Insurance #Security #Travel #Auto #Life #Policy #Health #Homeowners #DailyVideos  https://youtu.be/i17uPKBYYZc"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 10 13:59:09 EDT 2015",
+                "id": "227230293957027_1085727384773976",
+                "message": "8 #Signs You Are Under #SpiritualAttack & 3 #KeystoFreedom \n\n1. Lack of spiritual passion. The enemy comes to steal your tenacity for the things of God. Suddenly your prayer life seems stalled. Your commitment is tested and you can't seem to push though. You feel as though you are just going through the motions.\n\n2. Extreme frustration. During a spiritual attack the enemy uses a variety of circumstances to oppress the mind and bring great frustration. A person who is under siege finds themselves on edge and anxious.\n\n3. Confusion about purpose. During a spiritual attack there is often great confusion about spiritual direction. This is one of the chief goals of an attack, to get a believer out of destiny. That wrong move begins by bringing confusion.\n\n4. Lack of peace. The enemy bombards the mind with various thoughts and ongoing temptation in order to rob peace. The mind becomes irritated and exhausted. The enemy does all that he can to bring mental fatigue.\n\n5. Unusually sluggish and tired. A lack of energy and vitality are often the result of an extended attack. Certainly these issues can occur with natural problems, lack of sleep or health battles. In this case though, the root cause is the effect of prolonged spiritual battles.\n\n6. Strong urge to quit assignment. Every believer is born with unique purpose. As God created a purpose for each believer, He also gave unique gifts and grace to fulfill that plan. When a person is living in the high calling, they will prosper in various areas: They will receive financial blessing by excelling in the area that God has called them to. They will feel satisfied and fulfilled living out their destiny.\n\nSimply put, the enemy hates when a believer is boldly walking out their purpose and plan. He does all that he can to MOVE the Christian away from their destiny. During an attack he will overwhelm them with thoughts and desires to give up and abandon their post! This is one of his greatest purposes behind spiritual attacks.\n\n7. Drawn back towards old bondages. In a long spiritual battle a person is often pulled back towards negative cycles that they broke free from. The enemy wants to enslave them once again in the same old bondages. If he can discourage them bad enough to give into sin that they were free from then he can loose shame and condemnation upon them causing them to spiral down into deeper defeat.\n\n8. Questioning direction and call that was once so clear. As the enemy attacks the life of a believer he begins to give them reasons to give up on the very thing that God called them to. This is one of his master tools. He releases confusion, shame, intimidation and a variety of vile schemes to create a cloud of uncertainty. Again, his ultimate goal is to get a believer off the pathway of destiny, A person who is under attack may find themselves deeply questioning the road that they are traveling. Usually, they begin to reexamine decisions that were once crystal clear. Oftentimes a person in the midst of an attack will question prophetic words, spiritual breakthroughs and significant experiences that they had. This is a step towards moving backwards in the Spirit.\n\n3 Keys to Freedom\n\nOnce you recognize the attack begin to rise up in the faith and authority that Jesus has given you. Rebuke the attack and break it's power over your life. Remember Jesus gave us power and authority over all the demons and to heal diseases (Luke 9:1). Here are three keys to your freedom:\n\n1. Break it with faith: \"And without faith it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him\" (Heb. 11:6).\n\n2. Break it with prayer: \"With all prayer and petition pray at all times in the Spirit, and with this in view, be on the alert with all perseverance and petition for all the saints, and pray on my behalf, that utterance may be given to me in the opening of my mouth, to make known with boldness the mystery of the gospel\" (Eph. 6:18-19).\n\n3. Break it with resistance: \"Submit therefore to God. Resist the devil and he will flee from you\" (James 4:7). http://www.charismamag.com/spirit/spiritual-warfare/23013-8-signs-you-are-under-spiritual-attack"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 01 21:24:51 EDT 2015",
+                "id": "227230293957027_1081949538485094",
+                "message": "Like the fictional #ChuckNorris jokes / facts, when we stand with #God, no one can stand against us, & we are #unstoppable."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Mar 15 10:04:37 EDT 2015",
+                "id": "227230293957027_1053351411344907",
+                "message": "#propheticword2015 #prophetic #prophecy \nhttp://opensourcechristiancommunity.blogspot.com/2015/02/2015-prophecy-divine-turnaround-message.html"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Mar 15 10:03:38 EDT 2015",
+                "id": "227230293957027_1053351088011606",
+                "message": "#JesusLiftedHigh https://youtu.be/2SWRWPsWpXs #2015boomerang"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 20 13:45:24 EST 2015",
+                "id": "227230293957027_1034651633214885",
+                "message": "#GoodNews #News #tv\nhttps://youtu.be/ettha9VjzrQ"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Feb 15 03:10:15 EST 2015",
+                "id": "227230293957027_1031412356872146",
+                "message": "#propheticword2015 #prophetic #prophecy \nhttp://opensourcechristiancommunity.blogspot.com/2015/02/2015-prophecy-divine-turnaround-message.html"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Feb 08 14:28:56 EST 2015",
+                "id": "227230293957027_1595299150707009"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 07 22:19:05 EST 2015",
+                "id": "227230293957027_1027520223928026",
+                "message": "#EveryDayChoice #FreedomOfChoice #ProChoice"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 07 22:16:05 EST 2015",
+                "id": "227230293957027_1027517127261669"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 03 02:39:49 EST 2015",
+                "id": "227230293957027_1025058947507487",
+                "message": "Are you in the Lord's Army ?\nThe Spirit wields the sword."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Feb 03 02:37:55 EST 2015",
+                "id": "227230293957027_1025058600840855"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 27 19:35:51 EST 2015",
+                "id": "227230293957027_1021403717873010",
+                "message": "KEEP #CALM AND KEEP THE #FAITH in #JESUS"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 27 18:37:19 EST 2015",
+                "id": "227230293957027_1021383491208366",
+                "message": "DON'T WORRY !!! GOD IS GOOD !!! NOW GET SOME SLEEP."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 27 18:30:25 EST 2015",
+                "id": "227230293957027_1021377554542293",
+                "message": "GOD SAID IT !\nI BELIEVE IT !\nAND THAT DOES IT !\nIT'S DONE ! VICTORY IS OURS IN JESUS' MIGHTY NAME AMEN !!! AND AMEN !!!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 27 18:05:32 EST 2015",
+                "id": "227230293957027_1021327901213925",
+                "message": "#WonderfulToMe by #MattMaher\n\nI've been poor before\nMaybe not in money, but in circumstance\nAnd I have lavished in Your abundance\nAs You rain down Your blessings on me\n\nNo matter where I'm going\nLet me feel Your blessing\n\n'Cause my God is powerful, is so faithful\nIs wonderful to me\nMy God is loveable, is approachable\nIs wonderful to me\n\nI've been hungry before\nAching for the word that strengthens me\nAnd I've been fed by the body of Christ\nIn Sacrament and in the midst of community\n\nYou prepare a heavenly feast\nWhere the greatest are the least\n\n'Cause my God is powerful, is so faithful\nIs wonderful to me\nMy God is loveable, is approachable\nIs wonderful to me\n\nAnd I shall live (and I shall live)\nIn the house of the Lord (in the house of the Lord)\nAll my days (all my days)\nNow and forever (now and forever)\n\nYes I shall live (and I shall live)\nIn the house of the Lord (in the house of the Lord)\nAll my days (all my days)\nNow and forever (now and forever)\n\n'Cause my God is powerful, is so faithful\nIs wonderful to me\nMy God is loveable, is approachable\nIs wonderful to me\n\nMy God is powerful, is so faithful\nIs wonderful to me\nMy God is loveable, is approachable\nIs wonderful to me http://youtu.be/ngFDFCvBTgE?list=PL4F48CA4C5207B445"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 27 18:02:02 EST 2015",
+                "id": "227230293957027_1021326727880709",
+                "message": "This is the perfect #morning #prayer for each day, before we get out of bed."
+            }
+        ]
+    },
+    {
+        "id": "391830767610927",
+        "name": "Global Open Source Intelligence",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Fri Nov 14 17:19:29 EST 2014",
+                "id": "391830767610927_583734995087169",
+                "message": "#UN says #IS imposing rule of #terror - list of atrocities #osint #syria #iraq #caliphate http://t.co/GOJTEpOyAd"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 12 06:53:55 EST 2014",
+                "id": "391830767610927_582607491866586",
+                "message": "#ISIS issued a manual for a safe use of #Twitter and other media  http://t.co/54OPHgiO9j"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Nov 12 06:53:41 EST 2014",
+                "id": "391830767610927_582607415199927",
+                "message": "ISIS issued a manual for a safe use of Twitter and other media  http://t.co/54OPHgiO9j"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 10 17:08:56 EST 2014",
+                "id": "391830767610927_581731705287498",
+                "message": "#Darknet raids 'overblown' - #Tor #cyber #osint #police #silkroad http://t.co/CC6SYJDw7u"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 10 17:06:10 EST 2014",
+                "id": "391830767610927_581731091954226",
+                "message": "#DarkNet 'de-cloak' theories abound #tor #cyber #osint  http://t.co/aAqjdvz99I"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 03 20:01:14 EST 2014",
+                "id": "391830767610927_577956672331668",
+                "message": "#Tech firms 'in denial' over #terrorism #GCHQ #NSA  http://t.co/QIta7fkivN"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Nov 03 09:17:03 EST 2014",
+                "id": "391830767610927_577709519023050",
+                "message": "Facebook sets up 'dark web' service using #tor browser. #cyber #osint #intelligence http://t.co/DYfjA9ErEu"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Aug 11 10:27:22 EDT 2014",
+                "id": "391830767610927_535346006592735",
+                "message": "TV heat on Ukraine: biased open source reporting as emotive language misleads  #osint #bias #analysis #ukraine http://t.co/Qid0sqd1YN"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jul 10 01:44:39 EDT 2014",
+                "id": "391830767610927_519873348140001",
+                "message": "#Syria's ancient treasures are being destroyed, plus #ISIS are selling them for funding http://t.co/GtobhnTpjr"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri May 23 09:21:30 EDT 2014",
+                "id": "391830767610927_495529370574399",
+                "message": "iAnalysis - the rise of machine analytics  http://t.co/7H4Dv9MSQN #OSINT #Analysis #bigdata #AI #machinelearning #artificialintelligence"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun May 18 09:57:23 EDT 2014",
+                "id": "391830767610927_493177927476210",
+                "message": "Interesting article from @AtlasAnalytics iAnalysis - the rise of machine analytics  http://t.co/MPg33r4DYS #OSINT #Analysis #Intelligence"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Apr 27 01:49:30 EDT 2014",
+                "id": "391830767610927_482455245215145",
+                "message": "Turkey expands secret service powers #OSINT #Turkey http://t.co/fYv5zhN2IS"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Apr 18 05:05:13 EDT 2014",
+                "id": "391830767610927_478319725628697",
+                "message": "British teenager killed 'while fighting in Syria' - via @Telegraph http://t.co/GB2gcmbCQv"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Apr 18 05:01:08 EDT 2014",
+                "id": "391830767610927_478318808962122",
+                "message": "British teenager killed in Syria #osint #syria #jihad http://t.co/6iDju7pi1I"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Apr 14 13:11:22 EDT 2014",
+                "id": "391830767610927_476649282462408",
+                "message": "Syria rebels driven from Maaloula #Syria #osint  http://t.co/Et8pPTt5dP"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Apr 13 03:36:31 EDT 2014",
+                "id": "391830767610927_476017779192225",
+                "message": "From @Brown_Moses The Fighting in Abu Kamal (#Albukamal): Background ... http://t.co/8F3VkJ8oRB #ISIS #OSINT #Syria #Jihad"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Apr 12 12:24:35 EDT 2014",
+                "id": "391830767610927_475754352551901",
+                "message": "Claims of new #poison #gas attack in #Syria http://t.co/23idlnnEGx #OSINT"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Mar 27 03:13:15 EDT 2014",
+                "id": "391830767610927_468002986660371",
+                "message": "Leader's haircut for N Korea students #ridiculous #OSINT  http://t.co/vbJ3FHrGki"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Mar 24 11:38:20 EDT 2014",
+                "id": "391830767610927_466937790100224",
+                "message": "Turkish tweets from hidden networks #OSINT #Turkey  http://t.co/WYdBqh8FQJ"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Mar 18 13:45:41 EDT 2014",
+                "id": "391830767610927_464453467015323",
+                "message": "#Chechen rebel leader #Umarov 'dead' #OSINT #kavkaz #imaratkavkaz http://t.co/FJ3BtjLWmn"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Mar 11 18:23:41 EDT 2014",
+                "id": "391830767610927_461266307334039",
+                "message": "UK Syria bomber a hero, says family #almuhajiroun #alnusra #osint #syria http://t.co/hzTpQ1lq3N"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Mar 07 09:08:27 EST 2014",
+                "id": "391830767610927_459437260850277",
+                "message": "Online Tool For Archiving Facebook Pages via @Brown_Moses http://t.co/ZCepAKmdPU #OSINT"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Feb 21 13:24:03 EST 2014",
+                "id": "391830767610927_453231488137521",
+                "message": "South #Korea to develop #cyberweapons #OSINT http://t.co/fmsbDTH2wF"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Feb 19 19:33:15 EST 2014",
+                "id": "391830767610927_452459084881428",
+                "message": "Pussy Riot whipped at Sochi Games http://t.co/GAhCZjtcRc"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 15 09:58:22 EST 2014",
+                "id": "391830767610927_450478345079502",
+                "message": "#Lebanon gets coalition cabinet after 10 months http://t.co/pOhhz17yLe #Hezbollah #OSINT #Syria"
+            }
+        ]
+    },
+    {
+        "id": "203622429657296",
+        "name": "Open Sources Newswire",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Sun Feb 07 12:52:24 EST 2016",
+                "id": "203622429657296_1115435805142616",
+                "message": "Robert Sommerville will be joining us this Thursday to offer his first-hand perspective on the fight against ISIS, and what Canada's role should be."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Feb 06 08:05:11 EST 2016",
+                "id": "203622429657296_1114679468551583",
+                "message": "The Weekend Hertzblog - Careful With That Knife, Kathleen - notes from an recent ER endurance test https://spannerbook.wordpress.com/2016/02/06/careful-with-that-knife-kathleen/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 04 09:59:35 EST 2016",
+                "id": "203622429657296_1113596251993238",
+                "message": "On today's show we'll discuss the Iowa Caucus results, the next phase of TPP, Guelph's CUPE negotiations, and Greg Vezina of the None of the Above party will join us to talk about the Whitby-Oshawa by-Election. Listen live at 5 pm on CFRU 93.3 FM"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 28 09:15:40 EST 2016",
+                "id": "203622429657296_1109753935710803",
+                "message": "Today on the show, we'll be talking about La Loche, pipelines, and the loss of the Guelph Mercury. Listen live at 5pm on CFRU 93.3 FM"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 26 14:17:31 EST 2016",
+                "id": "203622429657296_1108774175808779",
+                "message": "Ready for download or streaming, the latest Open Sources Guelph. http://guelphpoliticast.podbean.com/e/open-sources-guelph-january-21-2016/"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 25 12:36:06 EST 2016",
+                "id": "203622429657296_1108218299197700",
+                "message": "The Guelph Mercury will print its last newspaper on Friday."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 21 09:27:19 EST 2016",
+                "id": "203622429657296_1106091936077003",
+                "message": "Today at 5 pm on CFRU 93.3 FM, Here's what we're going to be talking about..."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 20 12:31:45 EST 2016",
+                "id": "203622429657296_1105684172784446",
+                "message": "Give last week's episode a listen now. Download or play via Podbean."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 19 15:30:58 EST 2016",
+                "id": "203622429657296_1105251692827694",
+                "message": "The race to replace Stephen Harper begins!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 18 22:06:12 EST 2016",
+                "id": "203622429657296_1104873902865473",
+                "message": "Postmedia. Toronto Star. Al Jazeera. Huffington Post. 'Twas not a good week for the media business..."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Jan 18 12:35:13 EST 2016",
+                "id": "203622429657296_1104683249551205",
+                "message": "Remembering the words and wisdom of Martin Luther King Jr."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 16 10:46:16 EST 2016",
+                "id": "203622429657296_1103569362995927",
+                "message": "We were originally going to post something about Kevin O'Leary, but though, \"Nah. Too easy.\""
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jan 15 20:56:53 EST 2016",
+                "id": "203622429657296_1103302593022604",
+                "message": "It's by-election time in Whitby-Oshawa!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 14 10:14:08 EST 2016",
+                "id": "203622429657296_1102568043096059",
+                "message": "On this week's show we'll talk about Doctor Assisted Death, the State of the Union, Flint's Water Crisis, and the journalistic trials of Sean Penn."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 13 12:37:30 EST 2016",
+                "id": "203622429657296_1102115816474615",
+                "message": "Last week's episode of the show is now available to download."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 12 17:38:41 EST 2016",
+                "id": "203622429657296_1101710563181807",
+                "message": "Tony Clement wants the Liberals to say and do things he never would...."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Jan 09 12:03:58 EST 2016",
+                "id": "203622429657296_1099776066708590",
+                "message": "Sure, they have a lot in common, but let's not smear the, uh, good name of Rob Ford by comparing him to Donald Trump."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jan 07 09:09:00 EST 2016",
+                "id": "203622429657296_1098588953493968",
+                "message": "On this week's show we're tackling the Saudi Arabia/Iran showdown, the U.S. Presidential race, Obama's executive action on guns, and the standoff in Oregon. Listen live today at 5 pm!"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 05 15:59:40 EST 2016",
+                "id": "203622429657296_1097697080249822",
+                "message": "Planning meetings for the Inquiry in Missing and Murdered Indigenous Women and Girls begin this week in Ontario, BC, NWT, Yukon, NS, and Quebec."
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Jan 05 09:21:42 EST 2016",
+                "id": "203622429657296_1097546030264927",
+                "message": "3/5"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 31 11:02:10 EST 2015",
+                "id": "203622429657296_1094796067206590",
+                "message": "It's New Year's Eve! So let's rewind the year and look back and what rocked, and what sucked. Politically speaking."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Dec 23 17:47:20 EST 2015",
+                "id": "203622429657296_1089855801033950",
+                "message": "Gather your family around the radio (or radio app) and listen to the Open Sources Political Movies special tomorrow at 5 pm."
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 20 10:14:34 EST 2015",
+                "id": "203622429657296_1087982101221320",
+                "message": "What's Coming Up for Open Sources' Holiday Specials? \nhttp://guelphpolitico.blogspot.ca/2015/12/whats-coming-up-for-open-sources.html"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Dec 20 09:08:20 EST 2015",
+                "id": "203622429657296_1087951704557693",
+                "message": "The Year End Hertzblog: Happy Holidays - Or Else! Wake me up in January, or May... http://wp.me/p542LX-3x"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 18 15:28:19 EST 2015",
+                "id": "203622429657296_1087068937979303",
+                "message": "After listening to, well, everybody, the government has wisely decide to move this controversial monument."
+            }
+        ]
+    },
+    {
+        "id": "416042308487650",
+        "name": "Open Source Business Solutions",
+        "posts": [
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 19 09:05:00 EST 2015",
+                "id": "416042308487650_775056125919598"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Feb 19 08:59:14 EST 2015",
+                "id": "416042308487650_775053925919818",
+                "message": "CISA Going Well.. Check out our updated site.\n\nhttp://learn.opensourceforbusiness.net/course/view.php?id=9"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Aug 14 05:13:50 EDT 2014",
+                "id": "416042308487650_672563942835484"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon May 12 07:35:45 EDT 2014",
+                "id": "416042308487650_623304004428145",
+                "message": "Hi folks, We hope you are doing fantastically good, Its now three months in our new base @ Westlands and the Lord Has been great...we are bigger and better in addition to our book rental business check us out for Graphic design,Digital & large format printing & Branding. Thanks good people."
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 08 03:39:38 EST 2014",
+                "id": "416042308487650_199726086882666",
+                "message": "RG Barry Corporation. (pickerington, Ohio)"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jan 08 03:36:16 EST 2014",
+                "id": "416042308487650_561146997310513"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Dec 26 06:07:31 EST 2013",
+                "id": "416042308487650_1434010666815645"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sat Dec 21 09:59:08 EST 2013",
+                "id": "416042308487650_552448614847018"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Dec 20 06:41:26 EST 2013",
+                "id": "416042308487650_551947421563804",
+                "message": "Hey... We are moving up....Check out our new location at Westlands. Opposite Parklands Babtist Church....This Location now fully operational...Hope to see  you all......"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Oct 04 04:23:04 EDT 2013",
+                "id": "416042308487650_513632935395253"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Sep 18 14:56:05 EDT 2013",
+                "id": "416042308487650_506581922767021"
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 16 15:18:54 EDT 2013",
+                "id": "416042308487650_505679262857287",
+                "message": "Today's CISA Review Question:\n\nTrue or False?\n\nBiometric Systems face issues with social acceptability."
+            },
+            {
+                "comments": [],
+                "createdTime": "Mon Sep 16 15:14:28 EDT 2013",
+                "id": "416042308487650_505677976190749",
+                "message": "Ahaa.... Signature analysis is the weakest form of biometrics, as an auditor you should be greatly concerned, there are folks out there who can replicate other peoples signature with great accuracy.... the other form of biometrics are very reliable......."
+            },
+            {
+                "comments": [{
+                    "createdTime": "Mon Sep 16 15:20:05 EDT 2013",
+                    "id": "505117166246830_67553670",
+                    "message": "Aha easy one... signature analysis"
+                }],
+                "createdTime": "Sun Sep 15 10:23:50 EDT 2013",
+                "id": "416042308487650_505117166246830",
+                "message": "Today's CISA revision Question \n\nWhich of the following forms of biometrics you would be MOST concerned about in your job as an auditor?\n\n(a) Iris Scanning\n(b) Hand Geometry\n(c) Signature Analysis\n(d) Facial Recognition"
+            },
+            {
+                "comments": [],
+                "createdTime": "Sun Sep 15 10:12:57 EDT 2013",
+                "id": "416042308487650_505113656247181",
+                "message": "This was easy right?... and remember to your firewall turned on  your computer....\n\nThe Correct answer was... (d)..........The firewall can only protect those systems that are that route communication through the firewall....\n\nThe concept of the firewall is a very misunderstood concept....and it is unfortunate that even many organizations do not understand firewall capabilities and limitations... The last question in a way reveals some serious limitations of firewall.... A firewall simply means that there is always a hole for traffic to pass through---either good traffic or bad traffic or both. A firewall can only control the traffic that passes directly through it. It therefore will not protect your modems or other access points. The firewall concept creates a false sense of security."
+            },
+            {
+                "comments": [
+                    {
+                        "createdTime": "Fri Sep 13 10:40:40 EDT 2013",
+                        "id": "504245099667370_67545757",
+                        "message": "hmmm....."
+                    },
+                    {
+                        "createdTime": "Sun Sep 15 10:09:20 EDT 2013",
+                        "id": "504245099667370_67550354",
+                        "message": "The concept of the firewall is a very misunderstood concept....and it is unfortunate that even many organizations do not understand firewall capabilities and limitations... The last question in a way reveals some serious limitations of firewall.... A firewall simply means that there is always a hole for traffic to pass through---either good traffic or bad traffic or both. A firewall can only control the traffic that passes directly through it. It therefore will not protect your modems or other access points. The firewall concept creates a false sense of security."
+                    },
+                    {
+                        "createdTime": "Mon Jan 13 02:29:30 EST 2014",
+                        "id": "504245099667370_67846595",
+                        "message": "but understanding the limitations false sense of security. There is an applciation called cyberoam. its a firewall, antispam, loadbalancing hardware. Good alternative to a traditional firewall."
+                    }
+                ],
+                "createdTime": "Fri Sep 13 08:05:19 EDT 2013",
+                "id": "416042308487650_504245099667370",
+                "message": "Today's CISA review Question!!\n\nCompany X has decided to a implement a firewall. What is the PRIMARY purpose of a network firewall?\n\n(a) Protect company systems of a network from attack by external systems?\n(b) Protect downstream systems from all the internal attacks.\n(c) Protect all modem-connected systems from internal attacks.\n(d) Protect attached systems from attacks running through the firewall."
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Sep 13 07:39:34 EDT 2013",
+                "id": "416042308487650_504237553001458",
+                "message": "Hey here is our take on the CISA review question posted yesterday....Compliance Testing is basically an audit of a system carried out against a known criterion.  \n \n\u2022 Example:   Operating Systems - A verification that an operating system (Windows 8, Ubuntu, Lion etc) is configured appropriately to the companies needs and lockdown requirements, thus providing adequate and robust controls  to ensure that the Confidentiality, Integrity and Availability of the system will not be affected in its normal day to day operation."
+            },
+            {
+                "comments": [{
+                    "createdTime": "Fri Sep 13 07:31:20 EDT 2013",
+                    "id": "503283163096897_67545440",
+                    "message": "Compliance Testing is basically an audit of a system carried out against a known criterion.  \n\n\u2022\tExample : - Operating Systems -  A verification that an operating system (e.g. Windows 8,  LION, Ubuntu etc)  is configured appropriately to the companies needs and lockdown requirements., thus providing adequate and robust controls  to ensure that the Confidentiality, Integrity and Availability of the system will not be affected in its normal day to day operation."
+                }],
+                "createdTime": "Tue Sep 10 22:05:36 EDT 2013",
+                "id": "416042308487650_503283163096897",
+                "message": "Compliance Testing\n \n(1) What is compliance testing?  With Regards to the Operating System, provide examples of compliance tests that you could perform as a CISA?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 10 21:50:42 EDT 2013",
+                "id": "416042308487650_503279579763922",
+                "message": "We will be starting Certified Systems Auditor  Certification (CISA) questions posting soon on this page.... Check out the daily questions and the suggested answer the next day......"
+            },
+            {
+                "comments": [],
+                "createdTime": "Tue Sep 10 06:54:20 EDT 2013",
+                "id": "416042308487650_502934206465126",
+                "message": "We will be starting Certified Systems Auditor  Certification (CISA) questions posting soon on this page.... Check out the daily questions and the suggested answer the next day......"
+            },
+            {
+                "comments": [],
+                "createdTime": "Fri Jul 19 03:55:00 EDT 2013",
+                "id": "416042308487650_475971239161423",
+                "message": "Hi gud pple, I am currently in the resource center(MRC) reading te chapter 'Will power' of te book 'MIND POWER'. Its amazing what our minds can do, Make a point of bcoming our member and b exposed 2 bks that will impact ur lyf +vely Thnx."
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jul 11 03:35:25 EDT 2013",
+                "id": "416042308487650_471705922921288"
+            },
+            {
+                "comments": [{
+                    "createdTime": "Thu Jul 11 03:34:48 EDT 2013",
+                    "id": "471705589587988_67394763",
+                    "message": "this place looks awesome."
+                }],
+                "createdTime": "Thu Jul 11 03:33:27 EDT 2013",
+                "id": "416042308487650_471705589587988"
+            },
+            {
+                "comments": [],
+                "createdTime": "Thu Jul 11 03:29:51 EDT 2013",
+                "id": "416042308487650_471704952921385",
+                "message": "Just Updated.. Pictures of Our Limuru Facility!   Let us know what you think? When you plan to visit? When to become a member?"
+            },
+            {
+                "comments": [],
+                "createdTime": "Wed Jul 10 16:15:58 EDT 2013",
+                "id": "416042308487650_471499676275246",
+                "message": "Hi good pple, Notes on our previous trainings including recipes and method of preparing pizza and speedy orange cake are now available in our center in Limuru. Welcome!!!"
+            }
+        ]
+    }
+]
