@@ -1,6 +1,7 @@
 import json
 import os
 from collections import Counter
+from nltk.tokenize import TweetTokenizer
 
 path = './tweet_stream'
 files = [i for i in os.listdir(path) if os.path.isfile(os.path.join(path,i)) and \
@@ -14,13 +15,14 @@ tweetAmount = 0
 totalWords = 0
 
 counter = Counter()
+tokenizer = TweetTokenizer()
 
 for infile in files:
 	with open(os.path.join(path,infile)) as json_file:
 		data = json.load(json_file)
 		tweetAmount += len(data)
 		for key, value in data.items():
-			words = value.split(" ")
+			words = tokenizer.tokenize(value)
 			totalWords += len(words)
 			for word in words:
 				counter[word] += 1
