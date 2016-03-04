@@ -1,0 +1,392 @@
+{
+    "news14": [], 
+    "news15": [
+        [
+            "Thomas", 
+            "NNP"
+        ], 
+        [
+            "Connellan", 
+            "NNP"
+        ]
+    ], 
+    "news16": [
+        [
+            "Isaac", 
+            "NNP"
+        ]
+    ], 
+    "news17": [], 
+    "news10": [
+        [
+            "Idris", 
+            "NNP"
+        ], 
+        [
+            "Taqqee", 
+            "NNP"
+        ], 
+        [
+            "Tyler", 
+            "NNP"
+        ], 
+        [
+            "Roberson", 
+            "NNP"
+        ]
+    ], 
+    "news11": [
+        [
+            "Centro", 
+            "NNP"
+        ], 
+        [
+            "Bus", 
+            "NNP"
+        ], 
+        [
+            "Syracuse", 
+            "NNP"
+        ], 
+        [
+            "Brad", 
+            "NNP"
+        ], 
+        [
+            "Hulett", 
+            "NNP"
+        ]
+    ], 
+    "news12": [
+        [
+            "Stephanie", 
+            "NNP"
+        ], 
+        [
+            "Miner", 
+            "NNP"
+        ]
+    ], 
+    "news13": [
+        [
+            "Hotel", 
+            "NNP"
+        ], 
+        [
+            "Syracuse", 
+            "NNP"
+        ]
+    ], 
+    "news18": [], 
+    "news19": [], 
+    "news47": [], 
+    "news38": [
+        [
+            "Johnson", 
+            "NNP"
+        ]
+    ], 
+    "news39": [
+        [
+            "Rahmanjan", 
+            "NNP"
+        ], 
+        [
+            "Safy", 
+            "NNP"
+        ]
+    ], 
+    "news46": [], 
+    "news32": [], 
+    "news33": [
+        [
+            "Halle", 
+            "NNP"
+        ], 
+        [
+            "Majorana", 
+            "NNP"
+        ]
+    ], 
+    "news30": [], 
+    "news31": [
+        [
+            "Baker", 
+            "NNP"
+        ], 
+        [
+            "High", 
+            "NNP"
+        ], 
+        [
+            "School", 
+            "NNP"
+        ]
+    ], 
+    "news36": [
+        [
+            "Pyongyang", 
+            "NNP"
+        ]
+    ], 
+    "news37": [
+        [
+            "Adam", 
+            "NNP"
+        ], 
+        [
+            "Johnson", 
+            "NNP"
+        ]
+    ], 
+    "news34": [], 
+    "news35": [], 
+    "news44": [
+        [
+            "Donald", 
+            "NNP"
+        ], 
+        [
+            "Trump", 
+            "NNP"
+        ]
+    ], 
+    "news43": [], 
+    "news42": [
+        [
+            "George", 
+            "NNP"
+        ], 
+        [
+            "Pell", 
+            "NNP"
+        ]
+    ], 
+    "news41": [
+        [
+            "Philip", 
+            "NNP"
+        ], 
+        [
+            "Breedlove", 
+            "NNP"
+        ]
+    ], 
+    "news40": [], 
+    "news45": [
+        [
+            "John", 
+            "NNP"
+        ], 
+        [
+            "F.", 
+            "NNP"
+        ], 
+        [
+            "Campbell", 
+            "NNP"
+        ]
+    ], 
+    "news29": [
+        [
+            "Mark", 
+            "NNP"
+        ], 
+        [
+            "Nicotra", 
+            "NNP"
+        ], 
+        [
+            "Plan", 
+            "NNP"
+        ]
+    ], 
+    "news28": [
+        [
+            "Print", 
+            "NNP"
+        ], 
+        [
+            "Email", 
+            "NNP"
+        ], 
+        [
+            "Mike", 
+            "NNP"
+        ], 
+        [
+            "Waters", 
+            "NNP"
+        ]
+    ], 
+    "news49": [
+        [
+            "Arab", 
+            "NNP"
+        ], 
+        [
+            "Emirates", 
+            "NNP"
+        ], 
+        [
+            "Arab", 
+            "NNP"
+        ], 
+        [
+            "Bashar", 
+            "NNP"
+        ]
+    ], 
+    "news48": [
+        [
+            "Robert", 
+            "NNP"
+        ], 
+        [
+            "Mugabe", 
+            "NNP"
+        ]
+    ], 
+    "news21": [
+        [
+            "Kevin", 
+            "NNP"
+        ], 
+        [
+            "Rivoli", 
+            "NNP"
+        ]
+    ], 
+    "news20": [
+        [
+            "Matt", 
+            "NNP"
+        ], 
+        [
+            "DiCarlo", 
+            "NNP"
+        ]
+    ], 
+    "news23": [
+        [
+            "Oswego", 
+            "NNP"
+        ], 
+        [
+            "Collin", 
+            "NNP"
+        ], 
+        [
+            "Thompson", 
+            "NNP"
+        ]
+    ], 
+    "news22": [
+        [
+            "Peppa", 
+            "NNP"
+        ], 
+        [
+            "Pig", 
+            "NNP"
+        ]
+    ], 
+    "news25": [
+        [
+            "Print", 
+            "NNP"
+        ], 
+        [
+            "Email", 
+            "NNP"
+        ], 
+        [
+            "Lindsay", 
+            "NNP"
+        ], 
+        [
+            "Kramer", 
+            "NNP"
+        ]
+    ], 
+    "news24": [], 
+    "news27": [], 
+    "news26": [
+        [
+            "Eric", 
+            "NNP"
+        ], 
+        [
+            "Devendorf", 
+            "NNP"
+        ], 
+        [
+            "Syracuse", 
+            "NNP"
+        ]
+    ], 
+    "news2": [], 
+    "news3": [], 
+    "news0": [], 
+    "news1": [
+        [
+            "Andrew", 
+            "NNP"
+        ]
+    ], 
+    "news6": [
+        [
+            "Katie", 
+            "NNP"
+        ]
+    ], 
+    "news7": [
+        [
+            "Delaware", 
+            "NNP"
+        ], 
+        [
+            "Gabe", 
+            "NNP"
+        ], 
+        [
+            "Sherrod", 
+            "NNP"
+        ]
+    ], 
+    "news4": [
+        [
+            "Yellow", 
+            "NNP"
+        ], 
+        [
+            "Fellow", 
+            "NNP"
+        ]
+    ], 
+    "news5": [], 
+    "news8": [
+        [
+            "John", 
+            "NNP"
+        ], 
+        [
+            "Middlebrook", 
+            "NNP"
+        ]
+    ], 
+    "news9": [
+        [
+            "Leon", 
+            "NNP"
+        ], 
+        [
+            "Michael", 
+            "NNP"
+        ], 
+        [
+            "Rubens", 
+            "NNP"
+        ]
+    ]
+}
