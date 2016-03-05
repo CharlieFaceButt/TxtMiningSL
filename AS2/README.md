@@ -8,8 +8,8 @@ The method uses one NER system to analyze two different type of data.
 
 ## NER system
 
-[Python nltk](http://www.nltk.org)
-[Gutenber corpus](https://pypi.python.org/pypi/Gutenberg/0.1.1)
+* [Python nltk](http://www.nltk.org)
+* [Gutenber corpus](https://pypi.python.org/pypi/Gutenberg/0.1.1)
 
 ## Collecting data
 
