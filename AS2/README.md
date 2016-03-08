@@ -67,4 +67,4 @@ As expected, tweets are much more difficult than news sentences to analyse using
 
 ## Conclusion
 
-Though this experiment is incomprehensive, it reveals that the type of data(tweets or news sentences in this project) is a critical issue affects the quality of NER results. The type of data, in other words, the target data type of the NER system, will generate better result if it matches the system. For example, unlike the system used in this project which intends to deal with formal text that is well-written, ANNIE NER system from GATE is reported having 80% of F-score after adaptation with tweets. 
+Though this experiment is incomprehensive, it reveals that the type of data(tweets or news sentences in this project) is a critical issue affects the quality of NER results. The type of data, in other words, the target data type of the NER system, will generate better result if it matches the system. For example, unlike the system used in this project which intends to deal with formal text that is well-written, [ANNIE NER](https://gate.ac.uk/sale/tao/splitch6.html#chap:annie) system from GATE is reported having 80% of F-score after adaptation with tweets. 
