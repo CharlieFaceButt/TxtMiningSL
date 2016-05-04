@@ -30,6 +30,28 @@ Web application that provides understandable visualization of social media text 
 
 [Sentiment Visualization App](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/tweet_app)
 
-# Configurations
+# Implementation
 
-## 
+## Django framework: 
+
+Top layer contains two templates for user interface:
+
+* index.html: search entry point, most common query
+* result.html: analysis results
+
+Js files and css files in static folder, django book for details.
+
+Middle layer resides analysis engine that provide functionalities:
+
+* sentAnalyzeFacebook.py: analysis engine for twitter
+* sentAnalyzeTwitter.py: analysis engine for facebook
+* Miner.jar: provide a function retriveData(topic, number, api_token) to retrive Facebook posts.
+* views.py: facade of engines, provide response to query
+
+The database is the bottom layer:
+
+* QueryRecord (text: CharField, media: CharField, time: DateTime)
+* QueryResult (posCount: IntegerField, neuCount: IntegerField, negCount: IntegerField, query: QueryRecord)
+* MostCommonQuery (queryListJson: CharField, time: DateTime)
+
+
