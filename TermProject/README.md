@@ -51,7 +51,7 @@ Middle layer resides analysis engine that provide functionalities:
 The database is the bottom layer:
 
 * QueryRecord (text: CharField, media: CharField, time: DateTime)
-* QueryResult (posCount: IntegerField, neuCount: IntegerField, negCount: IntegerField, query: QueryRecord)
+* QueryResult (posCount: IntegerField, neuCount: IntegerField, negCount: IntegerField, query: foreighKey QueryRecord)
 * MostCommonQuery (queryListJson: CharField, time: DateTime)
 
 
