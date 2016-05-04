@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+{% load staticfiles %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Voice of social media</title>
+	<script class="jquery library" src="{% static 'js/jquery-1.8.2.min.js' %}" type="text/javascript"></script>
+	<script id="jquery_183" type="text/javascript" class="library" src="{% static 'js/jquery-1.8.3.min.js' %}"></script>
+	<script type="text/javascript" src="{% static 'js/zingchart/zingchart.min.js' %}"></script>
+  </head>
+<body>
+<div id="title_main">
+	<p id="title">Voice of Social Media</p>
+	<p id="subtitle">Sentiment analysis engine of social media opinion</p>
+</div>
+<div id="search_main" align="center">
+<form action="./results" method="get" id="sform">
+  <div id="search">
+    <div class="jsSelect" id="Select">
+      <ul>
+        <li class="s">twitter</li>
+        <li id="twitter">twitter</li>
+        <li id="facebook">facebook</li>
+      </ul>
+    </div>
+    <input name="q" type="text" value=""  autocomplete="off" id="inp">
+    <input name="media" type="hidden" value="twitter" id="media">
+    <!-- <div id="searchimg"></div> -->
+  </div>
+   <input type="submit" value="search" id="sure"/>
+</form>
+</div>
+
+
+<script>	
+	$(document).ready(function(){
+		//$("#inp").focus();
+		$("body #Select").each(function(i){ 
+		i= i+1
+		this.id = "Select" + i; 
+		var SumimasenSelect = $("#Select"+i)
+		$(SumimasenSelect).find("ul li:first").hover(function(){
+			$(".s").css("background","url({% static 'images/68_60.PNG' %}) 20px 0px no-repeat");
+			$(this).parent("ul").css("height", 84)
+			$(this).siblings("ul li:not(.s)").mouseenter(function(){
+				$(".s").css("background","url({% static 'images/68_60.PNG' %}) 20px 0px no-repeat");
+				$(this).css("background","#39f").css("color","#FFFFFF")
+			});
+			$(this).siblings("ul li:not(.s)").mouseleave(function(){
+				$(this).css("background","none").css("color","#A8A8A8")
+				$(".s").css("background","url({% static 'images/68_60.PNG' %}) 20px -30px no-repeat");
+			});
+			$(this).siblings("ul li:not(.s)").click(function(){
+				$(this).parent("ul").css("height",28)
+				var cdContent = $(this).text()
+				$(SumimasenSelect).find("ul li:first").text(cdContent)
+			});
+			$(this).parent(SumimasenSelect).mouseleave(function(){
+				$(this).css("height",28)
+			});
+			$("#twitter").click(function(){
+			$("#sform").attr("action","results");
+			$("#media").attr("value","twitter");
+			});
+			$("#facebook").click(function(){
+			$("#sform").attr("action","results");
+			$("#media").attr("value","facebook");
+			});
+		});},function(){
+			$(".s").css("background","url({% static 'images/68_60.PNG' %}) 20px -30px no-repeat");
+		});
+	});
+</script>
+
+<!-- most common query -->
+<div class="zingchart_item">
+	<p style="text-align:center;font-size:20px;font-weight:bold">Most common query</p>
+	<div id="most_common_q" style="height:400px; margin-right:-20px">
+	</div>
+</div>
+<script type="text/javascript">
+	var chartData = {
+		"type": "bar",
+		"scale-x": {
+			"labels": [
+				{% for item in most_common_query %}
+					"{{item.text}}",
+				{% endfor %}
+			],
+			// "width": '10%'
+		},
+		"series":[
+			{"values": [
+				{% for item in most_common_query %}
+					{{item.freq}},
+				{% endfor %}
+			]}
+		]
+	};
+	zingchart.render({
+		id: 'most_common_q',
+		data: chartData})
+</script>
+
+<div style="width:629px;height=100px;margin:20px auto;">
+<p>Sociaty's opinion, which complements professional opinion, generates massive amount of data with valuable information hard to find. Sometimes, people's opinion are actually inconsistent or even contradict with professional ideas. Any person that can access the Internet can contribute to the fundamental data set. To collect those voices, social media like twitter and facebook and microblogs are effective choices. This tool gives you a glimpse of the most recent social media opinion on the topic you want to check.</p>
+</div>
+<div style="width:629px;height:60px;margin:20px auto;text-align:c enter;clear:both">
+Supporting browser：FireFox、Chrome、傲游、搜狗. <br>
+Not supporting: IE8、360、Safari、Opera、世界之窗.<br>
+<p>Materials: <a href="http://sc.chinaz.com/" target="_blank">站长素材</a></p>
+</div>
+</body>
+</html>
+<style>
+* {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	text-decoration:none;
+}
+input, button, select, textarea {
+	outline:none;
+}
+body{
+	background:#fff;
+}
+textarea {
+	font-size:13px;
+	resize:none;
+}
+#title_main{
+	width: 629px;
+	height: 50px;
+	margin: 50px auto 0px auto;
+	background: #fff;
+}
+#title{
+	font-size: 30px;
+	font-family: "Times New Roman";
+}
+#subtitle{
+	font-size: 15px;
+}
+#search_main{
+	width:629px;
+	height:32px;
+	margin:10px auto 50px auto;
+	background:#fff;
+}
+#search {
+	width:550px;
+	height:28px;
+	border:#1FA9F0 2px solid;
+	float:left;
+}
+.jsSelect {
+	width:84px;
+	height:170px;
+	float:left;
+	display:inline;
+	margin-left:-2px;
+}
+.jsSelect ul {
+	width:84px;
+	height:28px;
+	overflow:hidden;
+	background:#FFF;
+	float:left;
+	position:absolute;
+}
+.jsSelect ul .s {
+	display:block;
+	background:url({% static 'images/68_60.PNG' %}) 20px -30px no-repeat;
+	cursor:default;
+	cursor:pointer;
+	color:#1FA9F0;
+	border:none;
+	border-left:2px solid #1FA9F0;
+}
+.jsSelect ul li {
+	width:84px;
+	height:28px;
+	line-height:28px;
+	font-size: 14px;
+	font-weight: bold;
+	cursor:pointer;
+	text-align:center;
+	color:#A8A8A8;
+	border:none;
+	border-left:2px solid #1FA9F0;
+	border-right:2px solid #1FA9F0;
+}
+.zingchart_item{
+	width: 629px;
+	height: auto;
+	border-top: 2px solid #1FA9F0;
+	margin: 0px auto;
+}
+#inp {
+	width:410px;
+	height:28px;
+	background:none;
+	margin-left:2px;
+	font-size:16px;
+	border:none;
+	line-height:28px;
+	color:#008ECA;
+}
+#searchimg{
+	width:50px;
+	height:14px;
+	background:url({% static 'images/50_70.PNG' %}) 0px 0px;
+	float:right;
+	margin-top:-20px;
+	margin-right:5px;
+}
+#sure{
+	width:75px;
+	height:32px;
+	background:#1FA9F0;
+	/*text-indent: -9999px;*/
+	color:#FFFFFF;
+	font-size:16px;
+	font-family:"Arial";
+	border:none;
+	float:left;
+	cursor:pointer;
+}
+</style>
